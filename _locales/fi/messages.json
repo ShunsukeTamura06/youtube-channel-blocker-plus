@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanavaestin Plus",
+    "description": "Laajennuksen nimi"
+  },
+  "appDescription": {
+    "message": "Edistynyt YouTube-kanavien esto monikielisellä tuella ja synkronoidulla tallennuksella",
+    "description": "Laajennuksen kuvaus"
+  },
+  "quickBlock": {
+    "message": "Pikaesto",
+    "description": "Pikaesto osion otsikko"
+  },
+  "enterChannelName": {
+    "message": "Anna kanavan nimi...",
+    "description": "Kanavan syötteen paikkamerkkiteksti"
+  },
+  "block": {
+    "message": "Estä",
+    "description": "Estä painikkeen teksti"
+  },
+  "blockedChannels": {
+    "message": "Estetyt Kanavat",
+    "description": "Estetyt kanavat osion otsikko"
+  },
+  "settings": {
+    "message": "Asetukset",
+    "description": "Asetukset osion otsikko"
+  },
+  "showBlockButtons": {
+    "message": "Näytä esto painikkeet",
+    "description": "Asetus esto painikkeiden näyttämiseen/piilottamiseen"
+  },
+  "buttonColor": {
+    "message": "Painikkeen väri:",
+    "description": "Painikkeen väri asetuksen nimike"
+  },
+  "enableSync": {
+    "message": "Ota käyttöön synkronointi laitteiden välillä",
+    "description": "Synkronointi asetuksen nimike"
+  },
+  "import": {
+    "message": "Tuo",
+    "description": "Tuo painikkeen teksti"
+  },
+  "export": {
+    "message": "Vie",
+    "description": "Vie painikkeen teksti"
+  },
+  "clearAll": {
+    "message": "Tyhjennä Kaikki",
+    "description": "Tyhjennä kaikki painikkeen teksti"
+  },
+  "blockedCount": {
+    "message": "Estetty:",
+    "description": "Estetty laskurin nimike"
+  },
+  "remove": {
+    "message": "Poista",
+    "description": "Poista painikkeen teksti"
+  },
+  "noBlockedChannels": {
+    "message": "Ei vielä estettyjä kanavia",
+    "description": "Tyhjä tila viesti"
+  },
+  "channelBlocked": {
+    "message": "Estetty: $1",
+    "description": "Kanava estetty ilmoitus"
+  },
+  "channelUnblocked": {
+    "message": "Esto poistettu: $1",
+    "description": "Kanavan esto poistettu ilmoitus"
+  },
+  "blockChannel": {
+    "message": "Estä $1",
+    "description": "Estä kanava painikkeen tooltip"
+  },
+  "blocked": {
+    "message": "ESTETTY",
+    "description": "Estetty peittokuvan teksti"
+  },
+  "loading": {
+    "message": "Ladataan...",
+    "description": "Lataus teksti"
+  },
+  "error": {
+    "message": "Tapahtui virhe",
+    "description": "Yleinen virheilmoitus"
+  },
+  "dataExported": {
+    "message": "Tiedot viety onnistuneesti",
+    "description": "Vienti onnistui viesti"
+  },
+  "dataImported": {
+    "message": "Tiedot tuotu onnistuneesti",
+    "description": "Tuonti onnistui viesti"
+  },
+  "importError": {
+    "message": "Tietojen tuonti epäonnistui",
+    "description": "Tuonti virhe viesti"
+  },
+  "confirmClearAll": {
+    "message": "Oletko varma että haluat tyhjentää kaikki estetyt kanavat?",
+    "description": "Vahvistusviesti kaikkien tietojen tyhjentämiseen"
+  },
+  "allDataCleared": {
+    "message": "Kaikki tiedot tyhjennetty",
+    "description": "Tyhjennä kaikki onnistui viesti"
+  },
+  "smartFilters": {
+    "message": "Älykkäät Suodattimet",
+    "description": "Älykkäät suodattimet osion otsikko"
+  },
+  "blockKeywords": {
+    "message": "Estä avainsanat",
+    "description": "Estä avainsanat toiminto"
+  },
+  "enterKeywords": {
+    "message": "Anna avainsanat (pilkulla erotettu)...",
+    "description": "Avainsana syötteen paikkamerkkiteksti"
+  },
+  "partialMatch": {
+    "message": "Osittainen vastaavuus",
+    "description": "Osittainen vastaavuus vaihtoehto"
+  },
+  "exactMatch": {
+    "message": "Tarkka vastaavuus",
+    "description": "Tarkka vastaavuus vaihtoehto"
+  },
+  "addFilter": {
+    "message": "Lisää suodatin",
+    "description": "Lisää suodatin painike"
+  }
+}

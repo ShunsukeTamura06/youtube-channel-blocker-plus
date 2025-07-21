@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanal Blokker Plus",
+    "description": "Udvidelsesnavn"
+  },
+  "appDescription": {
+    "message": "Avanceret YouTube-kanalblokering med flersproget support og synkroniseret lagring",
+    "description": "Udvidelsebeskrivelse"
+  },
+  "quickBlock": {
+    "message": "Hurtig Blokering",
+    "description": "Hurtig blokering sektion titel"
+  },
+  "enterChannelName": {
+    "message": "Indtast kanalnavn...",
+    "description": "Pladsholder for kanal input"
+  },
+  "block": {
+    "message": "Bloker",
+    "description": "Bloker knap tekst"
+  },
+  "blockedChannels": {
+    "message": "Blokerede Kanaler",
+    "description": "Blokerede kanaler sektion titel"
+  },
+  "settings": {
+    "message": "Indstillinger",
+    "description": "Indstillinger sektion titel"
+  },
+  "showBlockButtons": {
+    "message": "Vis bloker knapper",
+    "description": "Indstilling for at vise/skjule bloker knapper"
+  },
+  "buttonColor": {
+    "message": "Knap farve:",
+    "description": "Knap farve indstilling label"
+  },
+  "enableSync": {
+    "message": "Aktiver synkronisering mellem enheder",
+    "description": "Synk indstilling label"
+  },
+  "import": {
+    "message": "Importer",
+    "description": "Importer knap tekst"
+  },
+  "export": {
+    "message": "Eksporter",
+    "description": "Eksporter knap tekst"
+  },
+  "clearAll": {
+    "message": "Ryd Alt",
+    "description": "Ryd alt knap tekst"
+  },
+  "blockedCount": {
+    "message": "Blokeret:",
+    "description": "Blokeret tæller label"
+  },
+  "remove": {
+    "message": "Fjern",
+    "description": "Fjern knap tekst"
+  },
+  "noBlockedChannels": {
+    "message": "Ingen blokerede kanaler endnu",
+    "description": "Tom tilstand besked"
+  },
+  "channelBlocked": {
+    "message": "Blokeret: $1",
+    "description": "Kanal blokeret notifikation"
+  },
+  "channelUnblocked": {
+    "message": "Afblokeret: $1",
+    "description": "Kanal afblokeret notifikation"
+  },
+  "blockChannel": {
+    "message": "Bloker $1",
+    "description": "Bloker kanal knap tooltip"
+  },
+  "blocked": {
+    "message": "BLOKERET",
+    "description": "Blokeret overlay tekst"
+  },
+  "loading": {
+    "message": "Indlæser...",
+    "description": "Indlæsning tekst"
+  },
+  "error": {
+    "message": "Der opstod en fejl",
+    "description": "Generisk fejlbesked"
+  },
+  "dataExported": {
+    "message": "Data eksporteret succesfuldt",
+    "description": "Eksport succes besked"
+  },
+  "dataImported": {
+    "message": "Data importeret succesfuldt",
+    "description": "Import succes besked"
+  },
+  "importError": {
+    "message": "Kunne ikke importere data",
+    "description": "Import fejl besked"
+  },
+  "confirmClearAll": {
+    "message": "Er du sikker på at du vil rydde alle blokerede kanaler?",
+    "description": "Bekræftelse besked for at rydde al data"
+  },
+  "allDataCleared": {
+    "message": "Al data ryddet",
+    "description": "Ryd alt succes besked"
+  },
+  "smartFilters": {
+    "message": "Smarte Filtre",
+    "description": "Smarte filtre sektion titel"
+  },
+  "blockKeywords": {
+    "message": "Bloker nøgleord",
+    "description": "Bloker nøgleord funktion"
+  },
+  "enterKeywords": {
+    "message": "Indtast nøgleord (adskilt med komma)...",
+    "description": "Nøgleord input pladsholder"
+  },
+  "partialMatch": {
+    "message": "Delvis match",
+    "description": "Delvis match option"
+  },
+  "exactMatch": {
+    "message": "Nøjagtig match",
+    "description": "Nøjagtig match option"
+  },
+  "addFilter": {
+    "message": "Tilføj filter",
+    "description": "Tilføj filter knap"
+  }
+}

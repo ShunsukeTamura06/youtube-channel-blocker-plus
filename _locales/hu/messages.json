@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Csatorna Blokkoló Plus",
+    "description": "Kiegészítő neve"
+  },
+  "appDescription": {
+    "message": "Fejlett YouTube csatorna blokkolás többnyelvű támogatással és szinkronizált tárolással",
+    "description": "Kiegészítő leírása"
+  },
+  "quickBlock": {
+    "message": "Gyors Blokkolás",
+    "description": "Gyors blokkolás szekció címe"
+  },
+  "enterChannelName": {
+    "message": "Adja meg a csatorna nevét...",
+    "description": "Csatorna bevitel helyőrzője"
+  },
+  "block": {
+    "message": "Blokkolás",
+    "description": "Blokkolás gomb szövege"
+  },
+  "blockedChannels": {
+    "message": "Blokkolt Csatornák",
+    "description": "Blokkolt csatornák szekció címe"
+  },
+  "settings": {
+    "message": "Beállítások",
+    "description": "Beállítások szekció címe"
+  },
+  "showBlockButtons": {
+    "message": "Blokkoló gombok megjelenítése",
+    "description": "Beállítás a blokkoló gombok megjelenítéséhez/elrejtéséhez"
+  },
+  "buttonColor": {
+    "message": "Gomb színe:",
+    "description": "Gomb szín beállítás címke"
+  },
+  "enableSync": {
+    "message": "Eszközök közötti szinkronizálás engedélyezése",
+    "description": "Szinkronizálás beállítás címke"
+  },
+  "import": {
+    "message": "Importálás",
+    "description": "Importálás gomb szövege"
+  },
+  "export": {
+    "message": "Exportálás",
+    "description": "Exportálás gomb szövege"
+  },
+  "clearAll": {
+    "message": "Összes Törlése",
+    "description": "Összes törlése gomb szövege"
+  },
+  "blockedCount": {
+    "message": "Blokkolt:",
+    "description": "Blokkolt számláló címke"
+  },
+  "remove": {
+    "message": "Eltávolítás",
+    "description": "Eltávolítás gomb szövege"
+  },
+  "noBlockedChannels": {
+    "message": "Még nincsenek blokkolt csatornák",
+    "description": "Üres állapot üzenet"
+  },
+  "channelBlocked": {
+    "message": "Blokkolt: $1",
+    "description": "Csatorna blokkolva értesítés"
+  },
+  "channelUnblocked": {
+    "message": "Feloldva: $1",
+    "description": "Csatorna feloldva értesítés"
+  },
+  "blockChannel": {
+    "message": "$1 blokkolása",
+    "description": "Csatorna blokkolás gomb tooltip"
+  },
+  "blocked": {
+    "message": "BLOKKOLT",
+    "description": "Blokkolt fedő szöveg"
+  },
+  "loading": {
+    "message": "Betöltés...",
+    "description": "Betöltés szöveg"
+  },
+  "error": {
+    "message": "Hiba történt",
+    "description": "Általános hibaüzenet"
+  },
+  "dataExported": {
+    "message": "Adatok sikeresen exportálva",
+    "description": "Export siker üzenet"
+  },
+  "dataImported": {
+    "message": "Adatok sikeresen importálva",
+    "description": "Import siker üzenet"
+  },
+  "importError": {
+    "message": "Az adatok importálása sikertelen",
+    "description": "Import hiba üzenet"
+  },
+  "confirmClearAll": {
+    "message": "Biztosan törölni szeretné az összes blokkolt csatornát?",
+    "description": "Megerősítés üzenet az összes adat törléséhez"
+  },
+  "allDataCleared": {
+    "message": "Minden adat törölve",
+    "description": "Összes törlése siker üzenet"
+  },
+  "smartFilters": {
+    "message": "Okos Szűrők",
+    "description": "Okos szűrők szekció címe"
+  },
+  "blockKeywords": {
+    "message": "Kulcsszavak blokkolása",
+    "description": "Kulcsszavak blokkolása funkció"
+  },
+  "enterKeywords": {
+    "message": "Adja meg a kulcsszavakat (vesszővel elválasztva)...",
+    "description": "Kulcsszavak bevitel helyőrzője"
+  },
+  "partialMatch": {
+    "message": "Részleges egyezés",
+    "description": "Részleges egyezés opció"
+  },
+  "exactMatch": {
+    "message": "Pontos egyezés",
+    "description": "Pontos egyezés opció"
+  },
+  "addFilter": {
+    "message": "Szűrő hozzáadása",
+    "description": "Szűrő hozzáadása gomb"
+  }
+}

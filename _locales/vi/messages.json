@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Chặn Kênh Plus",
+    "description": "Tên tiện ích mở rộng"
+  },
+  "appDescription": {
+    "message": "Chặn kênh YouTube nâng cao với hỗ trợ đa ngôn ngữ và lưu trữ đồng bộ",
+    "description": "Mô tả tiện ích mở rộng"
+  },
+  "quickBlock": {
+    "message": "Chặn Nhanh",
+    "description": "Tiêu đề phần chặn nhanh"
+  },
+  "enterChannelName": {
+    "message": "Nhập tên kênh...",
+    "description": "Placeholder cho nhập kênh"
+  },
+  "block": {
+    "message": "Chặn",
+    "description": "Văn bản nút chặn"
+  },
+  "blockedChannels": {
+    "message": "Kênh Bị Chặn",
+    "description": "Tiêu đề phần kênh bị chặn"
+  },
+  "settings": {
+    "message": "Cài Đặt",
+    "description": "Tiêu đề phần cài đặt"
+  },
+  "showBlockButtons": {
+    "message": "Hiển thị nút chặn",
+    "description": "Cài đặt để hiện/ẩn nút chặn"
+  },
+  "buttonColor": {
+    "message": "Màu nút:",
+    "description": "Nhãn cài đặt màu nút"
+  },
+  "enableSync": {
+    "message": "Bật đồng bộ giữa các thiết bị",
+    "description": "Nhãn cài đặt đồng bộ"
+  },
+  "import": {
+    "message": "Nhập",
+    "description": "Văn bản nút nhập"
+  },
+  "export": {
+    "message": "Xuất",
+    "description": "Văn bản nút xuất"
+  },
+  "clearAll": {
+    "message": "Xóa Tất Cả",
+    "description": "Văn bản nút xóa tất cả"
+  },
+  "blockedCount": {
+    "message": "Đã chặn:",
+    "description": "Nhãn bộ đếm đã chặn"
+  },
+  "remove": {
+    "message": "Xóa",
+    "description": "Văn bản nút xóa"
+  },
+  "noBlockedChannels": {
+    "message": "Chưa có kênh nào bị chặn",
+    "description": "Thông báo trạng thái trống"
+  },
+  "channelBlocked": {
+    "message": "Đã chặn: $1",
+    "description": "Thông báo kênh bị chặn"
+  },
+  "channelUnblocked": {
+    "message": "Đã bỏ chặn: $1",
+    "description": "Thông báo kênh được bỏ chặn"
+  },
+  "blockChannel": {
+    "message": "Chặn $1",
+    "description": "Tooltip nút chặn kênh"
+  },
+  "blocked": {
+    "message": "ĐÃ CHẶN",
+    "description": "Văn bản lớp phủ đã chặn"
+  },
+  "loading": {
+    "message": "Đang tải...",
+    "description": "Văn bản tải"
+  },
+  "error": {
+    "message": "Đã xảy ra lỗi",
+    "description": "Thông báo lỗi chung"
+  },
+  "dataExported": {
+    "message": "Xuất dữ liệu thành công",
+    "description": "Thông báo thành công xuất"
+  },
+  "dataImported": {
+    "message": "Nhập dữ liệu thành công",
+    "description": "Thông báo thành công nhập"
+  },
+  "importError": {
+    "message": "Nhập dữ liệu thất bại",
+    "description": "Thông báo lỗi nhập"
+  },
+  "confirmClearAll": {
+    "message": "Bạn có chắc chắn muốn xóa tất cả kênh bị chặn?",
+    "description": "Thông báo xác nhận để xóa tất cả dữ liệu"
+  },
+  "allDataCleared": {
+    "message": "Đã xóa tất cả dữ liệu",
+    "description": "Thông báo thành công xóa tất cả"
+  },
+  "smartFilters": {
+    "message": "Bộ Lọc Thông Minh",
+    "description": "Tiêu đề phần bộ lọc thông minh"
+  },
+  "blockKeywords": {
+    "message": "Chặn từ khóa",
+    "description": "Tính năng chặn từ khóa"
+  },
+  "enterKeywords": {
+    "message": "Nhập từ khóa (cách nhau bằng dấu phẩy)...",
+    "description": "Placeholder nhập từ khóa"
+  },
+  "partialMatch": {
+    "message": "Khớp một phần",
+    "description": "Tùy chọn khớp một phần"
+  },
+  "exactMatch": {
+    "message": "Khớp chính xác",
+    "description": "Tùy chọn khớp chính xác"
+  },
+  "addFilter": {
+    "message": "Thêm bộ lọc",
+    "description": "Nút thêm bộ lọc"
+  }
+}

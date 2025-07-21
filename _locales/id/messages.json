@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Pemblokir Saluran Plus",
+    "description": "Nama ekstensi"
+  },
+  "appDescription": {
+    "message": "Pemblokiran saluran YouTube lanjutan dengan dukungan multi-bahasa dan penyimpanan sinkronisasi",
+    "description": "Deskripsi ekstensi"
+  },
+  "quickBlock": {
+    "message": "Blokir Cepat",
+    "description": "Judul bagian blokir cepat"
+  },
+  "enterChannelName": {
+    "message": "Masukkan nama saluran...",
+    "description": "Placeholder untuk input saluran"
+  },
+  "block": {
+    "message": "Blokir",
+    "description": "Teks tombol blokir"
+  },
+  "blockedChannels": {
+    "message": "Saluran Terblokir",
+    "description": "Judul bagian saluran terblokir"
+  },
+  "settings": {
+    "message": "Pengaturan",
+    "description": "Judul bagian pengaturan"
+  },
+  "showBlockButtons": {
+    "message": "Tampilkan tombol blokir",
+    "description": "Pengaturan untuk menampilkan/menyembunyikan tombol blokir"
+  },
+  "buttonColor": {
+    "message": "Warna tombol:",
+    "description": "Label pengaturan warna tombol"
+  },
+  "enableSync": {
+    "message": "Aktifkan sinkronisasi antar perangkat",
+    "description": "Label pengaturan sinkronisasi"
+  },
+  "import": {
+    "message": "Impor",
+    "description": "Teks tombol impor"
+  },
+  "export": {
+    "message": "Ekspor",
+    "description": "Teks tombol ekspor"
+  },
+  "clearAll": {
+    "message": "Hapus Semua",
+    "description": "Teks tombol hapus semua"
+  },
+  "blockedCount": {
+    "message": "Terblokir:",
+    "description": "Label penghitung terblokir"
+  },
+  "remove": {
+    "message": "Hapus",
+    "description": "Teks tombol hapus"
+  },
+  "noBlockedChannels": {
+    "message": "Belum ada saluran yang diblokir",
+    "description": "Pesan keadaan kosong"
+  },
+  "channelBlocked": {
+    "message": "Diblokir: $1",
+    "description": "Notifikasi saluran diblokir"
+  },
+  "channelUnblocked": {
+    "message": "Buka blokir: $1",
+    "description": "Notifikasi saluran dibuka blokirnya"
+  },
+  "blockChannel": {
+    "message": "Blokir $1",
+    "description": "Tooltip tombol blokir saluran"
+  },
+  "blocked": {
+    "message": "DIBLOKIR",
+    "description": "Teks overlay diblokir"
+  },
+  "loading": {
+    "message": "Memuat...",
+    "description": "Teks memuat"
+  },
+  "error": {
+    "message": "Terjadi kesalahan",
+    "description": "Pesan kesalahan umum"
+  },
+  "dataExported": {
+    "message": "Data berhasil diekspor",
+    "description": "Pesan sukses ekspor"
+  },
+  "dataImported": {
+    "message": "Data berhasil diimpor",
+    "description": "Pesan sukses impor"
+  },
+  "importError": {
+    "message": "Gagal mengimpor data",
+    "description": "Pesan kesalahan impor"
+  },
+  "confirmClearAll": {
+    "message": "Apakah Anda yakin ingin menghapus semua saluran yang diblokir?",
+    "description": "Pesan konfirmasi untuk menghapus semua data"
+  },
+  "allDataCleared": {
+    "message": "Semua data telah dihapus",
+    "description": "Pesan sukses hapus semua"
+  },
+  "smartFilters": {
+    "message": "Filter Cerdas",
+    "description": "Judul bagian filter cerdas"
+  },
+  "blockKeywords": {
+    "message": "Blokir kata kunci",
+    "description": "Fitur blokir kata kunci"
+  },
+  "enterKeywords": {
+    "message": "Masukkan kata kunci (dipisahkan koma)...",
+    "description": "Placeholder input kata kunci"
+  },
+  "partialMatch": {
+    "message": "Kecocokan sebagian",
+    "description": "Opsi kecocokan sebagian"
+  },
+  "exactMatch": {
+    "message": "Kecocokan tepat",
+    "description": "Opsi kecocokan tepat"
+  },
+  "addFilter": {
+    "message": "Tambah filter",
+    "description": "Tombol tambah filter"
+  }
+}

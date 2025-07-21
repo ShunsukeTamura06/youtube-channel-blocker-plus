@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanal Engelleyici Plus",
+    "description": "Uzantı adı"
+  },
+  "appDescription": {
+    "message": "Çok dilli destek ve senkronize depolama ile gelişmiş YouTube kanal engelleme",
+    "description": "Uzantı açıklaması"
+  },
+  "quickBlock": {
+    "message": "Hızlı Engelleme",
+    "description": "Hızlı engelleme bölüm başlığı"
+  },
+  "enterChannelName": {
+    "message": "Kanal adını girin...",
+    "description": "Kanal girişi için yer tutucu"
+  },
+  "block": {
+    "message": "Engelle",
+    "description": "Engelle düğmesi metni"
+  },
+  "blockedChannels": {
+    "message": "Engellenen Kanallar",
+    "description": "Engellenen kanallar bölüm başlığı"
+  },
+  "settings": {
+    "message": "Ayarlar",
+    "description": "Ayarlar bölüm başlığı"
+  },
+  "showBlockButtons": {
+    "message": "Engelleme düğmelerini göster",
+    "description": "Engelleme düğmelerini gösterme/gizleme ayarı"
+  },
+  "buttonColor": {
+    "message": "Düğme rengi:",
+    "description": "Düğme rengi ayar etiketi"
+  },
+  "enableSync": {
+    "message": "Cihazlar arası senkronizasyonu etkinleştir",
+    "description": "Senkronizasyon ayar etiketi"
+  },
+  "import": {
+    "message": "İçe Aktar",
+    "description": "İçe aktar düğmesi metni"
+  },
+  "export": {
+    "message": "Dışa Aktar",
+    "description": "Dışa aktar düğmesi metni"
+  },
+  "clearAll": {
+    "message": "Tümünü Temizle",
+    "description": "Tümünü temizle düğmesi metni"
+  },
+  "blockedCount": {
+    "message": "Engellenen:",
+    "description": "Engellenen sayaç etiketi"
+  },
+  "remove": {
+    "message": "Kaldır",
+    "description": "Kaldır düğmesi metni"
+  },
+  "noBlockedChannels": {
+    "message": "Henüz engellenen kanal yok",
+    "description": "Boş durum mesajı"
+  },
+  "channelBlocked": {
+    "message": "Engellendi: $1",
+    "description": "Kanal engellendi bildirimi"
+  },
+  "channelUnblocked": {
+    "message": "Engel kaldırıldı: $1",
+    "description": "Kanal engeli kaldırıldı bildirimi"
+  },
+  "blockChannel": {
+    "message": "$1 kanalını engelle",
+    "description": "Kanalı engelle düğmesi ipucu"
+  },
+  "blocked": {
+    "message": "ENGELLENDİ",
+    "description": "Engellendi kaplama metni"
+  },
+  "loading": {
+    "message": "Yükleniyor...",
+    "description": "Yükleme metni"
+  },
+  "error": {
+    "message": "Bir hata oluştu",
+    "description": "Genel hata mesajı"
+  },
+  "dataExported": {
+    "message": "Veriler başarıyla dışa aktarıldı",
+    "description": "Dışa aktarma başarı mesajı"
+  },
+  "dataImported": {
+    "message": "Veriler başarıyla içe aktarıldı",
+    "description": "İçe aktarma başarı mesajı"
+  },
+  "importError": {
+    "message": "Veri içe aktarma başarısız",
+    "description": "İçe aktarma hata mesajı"
+  },
+  "confirmClearAll": {
+    "message": "Tüm engellenen kanalları temizlemek istediğinizden emin misiniz?",
+    "description": "Tüm verileri temizleme onay mesajı"
+  },
+  "allDataCleared": {
+    "message": "Tüm veriler temizlendi",
+    "description": "Tümünü temizle başarı mesajı"
+  },
+  "smartFilters": {
+    "message": "Akıllı Filtreler",
+    "description": "Akıllı filtreler bölüm başlığı"
+  },
+  "blockKeywords": {
+    "message": "Anahtar kelimeleri engelle",
+    "description": "Anahtar kelimeleri engelleme özelliği"
+  },
+  "enterKeywords": {
+    "message": "Anahtar kelimeleri girin (virgülle ayrılmış)...",
+    "description": "Anahtar kelime girişi yer tutucu"
+  },
+  "partialMatch": {
+    "message": "Kısmi eşleşme",
+    "description": "Kısmi eşleşme seçeneği"
+  },
+  "exactMatch": {
+    "message": "Tam eşleşme",
+    "description": "Tam eşleşme seçeneği"
+  },
+  "addFilter": {
+    "message": "Filtre ekle",
+    "description": "Filtre ekleme düğmesi"
+  }
+}

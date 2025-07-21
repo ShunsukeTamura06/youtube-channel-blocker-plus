@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanalblockerare Plus",
+    "description": "Tilläggsnamn"
+  },
+  "appDescription": {
+    "message": "Avancerad YouTube-kanalblockering med flerspråkigt stöd och synkroniserad lagring",
+    "description": "Tilläggsbeskrivning"
+  },
+  "quickBlock": {
+    "message": "Snabbblockering",
+    "description": "Snabbblockering sektion titel"
+  },
+  "enterChannelName": {
+    "message": "Ange kanalnamn...",
+    "description": "Platshållare för kanalinmatning"
+  },
+  "block": {
+    "message": "Blockera",
+    "description": "Blockera knapp text"
+  },
+  "blockedChannels": {
+    "message": "Blockerade Kanaler",
+    "description": "Blockerade kanaler sektion titel"
+  },
+  "settings": {
+    "message": "Inställningar",
+    "description": "Inställningar sektion titel"
+  },
+  "showBlockButtons": {
+    "message": "Visa blockera knappar",
+    "description": "Inställning för att visa/dölja blockera knappar"
+  },
+  "buttonColor": {
+    "message": "Knappfärg:",
+    "description": "Knappfärg inställning etikett"
+  },
+  "enableSync": {
+    "message": "Aktivera synkronisering mellan enheter",
+    "description": "Synk inställning etikett"
+  },
+  "import": {
+    "message": "Importera",
+    "description": "Importera knapp text"
+  },
+  "export": {
+    "message": "Exportera",
+    "description": "Exportera knapp text"
+  },
+  "clearAll": {
+    "message": "Rensa Alla",
+    "description": "Rensa alla knapp text"
+  },
+  "blockedCount": {
+    "message": "Blockerade:",
+    "description": "Blockerade räknare etikett"
+  },
+  "remove": {
+    "message": "Ta bort",
+    "description": "Ta bort knapp text"
+  },
+  "noBlockedChannels": {
+    "message": "Inga blockerade kanaler än",
+    "description": "Tomt tillstånd meddelande"
+  },
+  "channelBlocked": {
+    "message": "Blockerad: $1",
+    "description": "Kanal blockerad notifiering"
+  },
+  "channelUnblocked": {
+    "message": "Avblockerad: $1",
+    "description": "Kanal avblockerad notifiering"
+  },
+  "blockChannel": {
+    "message": "Blockera $1",
+    "description": "Blockera kanal knapp tooltip"
+  },
+  "blocked": {
+    "message": "BLOCKERAD",
+    "description": "Blockerad overlay text"
+  },
+  "loading": {
+    "message": "Laddar...",
+    "description": "Laddning text"
+  },
+  "error": {
+    "message": "Ett fel inträffade",
+    "description": "Allmänt felmeddelande"
+  },
+  "dataExported": {
+    "message": "Data exporterades framgångsrikt",
+    "description": "Export framgång meddelande"
+  },
+  "dataImported": {
+    "message": "Data importerades framgångsrikt",
+    "description": "Import framgång meddelande"
+  },
+  "importError": {
+    "message": "Misslyckades med att importera data",
+    "description": "Import fel meddelande"
+  },
+  "confirmClearAll": {
+    "message": "Är du säker på att du vill rensa alla blockerade kanaler?",
+    "description": "Bekräftelse meddelande för att rensa all data"
+  },
+  "allDataCleared": {
+    "message": "All data rensad",
+    "description": "Rensa alla framgång meddelande"
+  },
+  "smartFilters": {
+    "message": "Smarta Filter",
+    "description": "Smart filters sektion titel"
+  },
+  "blockKeywords": {
+    "message": "Blockera nyckelord",
+    "description": "Blockera nyckelord funktion"
+  },
+  "enterKeywords": {
+    "message": "Ange nyckelord (separerade med kommatecken)...",
+    "description": "Nyckelord input platshållare"
+  },
+  "partialMatch": {
+    "message": "Partiell matchning",
+    "description": "Partiell matchning alternativ"
+  },
+  "exactMatch": {
+    "message": "Exakt matchning",
+    "description": "Exakt matchning alternativ"
+  },
+  "addFilter": {
+    "message": "Lägg till filter",
+    "description": "Lägg till filter knapp"
+  }
+}

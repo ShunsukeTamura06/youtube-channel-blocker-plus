@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Blocker Kanałów Plus",
+    "description": "Nazwa rozszerzenia"
+  },
+  "appDescription": {
+    "message": "Zaawansowane blokowanie kanałów YouTube z wielojęzyczną obsługą i zsynchronizowanym przechowywaniem",
+    "description": "Opis rozszerzenia"
+  },
+  "quickBlock": {
+    "message": "Szybkie Blokowanie",
+    "description": "Tytuł sekcji szybkiego blokowania"
+  },
+  "enterChannelName": {
+    "message": "Wprowadź nazwę kanału...",
+    "description": "Symbol zastępczy dla wprowadzania kanału"
+  },
+  "block": {
+    "message": "Blokuj",
+    "description": "Tekst przycisku blokowania"
+  },
+  "blockedChannels": {
+    "message": "Zablokowane Kanały",
+    "description": "Tytuł sekcji zablokowanych kanałów"
+  },
+  "settings": {
+    "message": "Ustawienia",
+    "description": "Tytuł sekcji ustawień"
+  },
+  "showBlockButtons": {
+    "message": "Pokaż przyciski blokowania",
+    "description": "Ustawienie pokazywania/ukrywania przycisków blokowania"
+  },
+  "buttonColor": {
+    "message": "Kolor przycisku:",
+    "description": "Etykieta ustawienia koloru przycisku"
+  },
+  "enableSync": {
+    "message": "Włącz synchronizację między urządzeniami",
+    "description": "Etykieta ustawienia synchronizacji"
+  },
+  "import": {
+    "message": "Importuj",
+    "description": "Tekst przycisku importu"
+  },
+  "export": {
+    "message": "Eksportuj",
+    "description": "Tekst przycisku eksportu"
+  },
+  "clearAll": {
+    "message": "Wyczyść Wszystko",
+    "description": "Tekst przycisku wyczyść wszystko"
+  },
+  "blockedCount": {
+    "message": "Zablokowane:",
+    "description": "Etykieta licznika zablokowanych"
+  },
+  "remove": {
+    "message": "Usuń",
+    "description": "Tekst przycisku usuwania"
+  },
+  "noBlockedChannels": {
+    "message": "Jeszcze brak zablokowanych kanałów",
+    "description": "Komunikat pustego stanu"
+  },
+  "channelBlocked": {
+    "message": "Zablokowany: $1",
+    "description": "Powiadomienie o zablokowaniu kanału"
+  },
+  "channelUnblocked": {
+    "message": "Odblokowany: $1",
+    "description": "Powiadomienie o odblokowaniu kanału"
+  },
+  "blockChannel": {
+    "message": "Blokuj $1",
+    "description": "Tooltip przycisku blokowania kanału"
+  },
+  "blocked": {
+    "message": "ZABLOKOWANY",
+    "description": "Tekst nakładki zablokowanego"
+  },
+  "loading": {
+    "message": "Ładowanie...",
+    "description": "Tekst ładowania"
+  },
+  "error": {
+    "message": "Wystąpił błąd",
+    "description": "Ogólny komunikat błędu"
+  },
+  "dataExported": {
+    "message": "Dane wyeksportowane pomyślnie",
+    "description": "Komunikat sukcesu eksportu"
+  },
+  "dataImported": {
+    "message": "Dane zaimportowane pomyślnie",
+    "description": "Komunikat sukcesu importu"
+  },
+  "importError": {
+    "message": "Nie udało się zaimportować danych",
+    "description": "Komunikat błędu importu"
+  },
+  "confirmClearAll": {
+    "message": "Czy na pewno chcesz wyczyścić wszystkie zablokowane kanały?",
+    "description": "Komunikat potwierdzenia czyszczenia wszystkich danych"
+  },
+  "allDataCleared": {
+    "message": "Wszystkie dane wyczyszczone",
+    "description": "Komunikat sukcesu wyczyść wszystko"
+  },
+  "smartFilters": {
+    "message": "Inteligentne Filtry",
+    "description": "Tytuł sekcji inteligentnych filtrów"
+  },
+  "blockKeywords": {
+    "message": "Blokuj słowa kluczowe",
+    "description": "Funkcja blokowania słów kluczowych"
+  },
+  "enterKeywords": {
+    "message": "Wprowadź słowa kluczowe (oddzielone przecinkami)...",
+    "description": "Symbol zastępczy wprowadzania słów kluczowych"
+  },
+  "partialMatch": {
+    "message": "Częściowe dopasowanie",
+    "description": "Opcja częściowego dopasowania"
+  },
+  "exactMatch": {
+    "message": "Dokładne dopasowanie",
+    "description": "Opcja dokładnego dopasowania"
+  },
+  "addFilter": {
+    "message": "Dodaj filtr",
+    "description": "Przycisk dodawania filtru"
+  }
+}

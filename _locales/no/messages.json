@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanalblokker Plus",
+    "description": "Utvidelsesnavn"
+  },
+  "appDescription": {
+    "message": "Avansert YouTube-kanalblokking med flerspråklig støtte og synkronisert lagring",
+    "description": "Utvidelsebeskrivelse"
+  },
+  "quickBlock": {
+    "message": "Rask Blokking",
+    "description": "Rask blokking seksjonstittel"
+  },
+  "enterChannelName": {
+    "message": "Skriv inn kanalnavn...",
+    "description": "Plassholder for kanalinput"
+  },
+  "block": {
+    "message": "Blokker",
+    "description": "Blokker knapp tekst"
+  },
+  "blockedChannels": {
+    "message": "Blokkerte Kanaler",
+    "description": "Blokkerte kanaler seksjonstittel"
+  },
+  "settings": {
+    "message": "Innstillinger",
+    "description": "Innstillinger seksjonstittel"
+  },
+  "showBlockButtons": {
+    "message": "Vis blokkeringsknapper",
+    "description": "Innstilling for å vise/skjule blokkeringsknapper"
+  },
+  "buttonColor": {
+    "message": "Knappfarge:",
+    "description": "Knappfarge innstillingsetikett"
+  },
+  "enableSync": {
+    "message": "Aktiver synkronisering mellom enheter",
+    "description": "Synk innstillingsetikett"
+  },
+  "import": {
+    "message": "Importer",
+    "description": "Importer knapp tekst"
+  },
+  "export": {
+    "message": "Eksporter",
+    "description": "Eksporter knapp tekst"
+  },
+  "clearAll": {
+    "message": "Tøm Alt",
+    "description": "Tøm alt knapp tekst"
+  },
+  "blockedCount": {
+    "message": "Blokkert:",
+    "description": "Blokkert teller etikett"
+  },
+  "remove": {
+    "message": "Fjern",
+    "description": "Fjern knapp tekst"
+  },
+  "noBlockedChannels": {
+    "message": "Ingen blokkerte kanaler enda",
+    "description": "Tom tilstand melding"
+  },
+  "channelBlocked": {
+    "message": "Blokkert: $1",
+    "description": "Kanal blokkert varsling"
+  },
+  "channelUnblocked": {
+    "message": "Avblokkert: $1",
+    "description": "Kanal avblokkert varsling"
+  },
+  "blockChannel": {
+    "message": "Blokker $1",
+    "description": "Blokker kanal knapp verktøytips"
+  },
+  "blocked": {
+    "message": "BLOKKERT",
+    "description": "Blokkert overlay tekst"
+  },
+  "loading": {
+    "message": "Laster...",
+    "description": "Lasting tekst"
+  },
+  "error": {
+    "message": "En feil oppstod",
+    "description": "Generisk feilmelding"
+  },
+  "dataExported": {
+    "message": "Data eksportert vellykket",
+    "description": "Eksport suksess melding"
+  },
+  "dataImported": {
+    "message": "Data importert vellykket",
+    "description": "Import suksess melding"
+  },
+  "importError": {
+    "message": "Klarte ikke å importere data",
+    "description": "Import feil melding"
+  },
+  "confirmClearAll": {
+    "message": "Er du sikker på at du vil tømme alle blokkerte kanaler?",
+    "description": "Bekreftelse melding for å tømme all data"
+  },
+  "allDataCleared": {
+    "message": "All data tømt",
+    "description": "Tøm alt suksess melding"
+  },
+  "smartFilters": {
+    "message": "Smarte Filtre",
+    "description": "Smart filtre seksjonstittel"
+  },
+  "blockKeywords": {
+    "message": "Blokker nøkkelord",
+    "description": "Blokker nøkkelord funksjon"
+  },
+  "enterKeywords": {
+    "message": "Skriv inn nøkkelord (separert med komma)...",
+    "description": "Nøkkelord input plassholder"
+  },
+  "partialMatch": {
+    "message": "Delvis treff",
+    "description": "Delvis treff alternativ"
+  },
+  "exactMatch": {
+    "message": "Eksakt treff",
+    "description": "Eksakt treff alternativ"
+  },
+  "addFilter": {
+    "message": "Legg til filter",
+    "description": "Legg til filter knapp"
+  }
+}

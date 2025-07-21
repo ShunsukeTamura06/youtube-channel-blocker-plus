@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube ตัวบล็อกช่อง Plus",
+    "description": "ชื่อส่วนขยาย"
+  },
+  "appDescription": {
+    "message": "การบล็อกช่อง YouTube ขั้นสูงพร้อมการสนับสนุนหลายภาษาและการจัดเก็บแบบซิงค์",
+    "description": "คำอธิบายส่วนขยาย"
+  },
+  "quickBlock": {
+    "message": "บล็อกด่วน",
+    "description": "ชื่อหัวข้อส่วนบล็อกด่วน"
+  },
+  "enterChannelName": {
+    "message": "ใส่ชื่อช่อง...",
+    "description": "ตัวยึดตำแหน่งสำหรับการป้อนช่อง"
+  },
+  "block": {
+    "message": "บล็อก",
+    "description": "ข้อความปุ่มบล็อก"
+  },
+  "blockedChannels": {
+    "message": "ช่องที่ถูกบล็อก",
+    "description": "ชื่อหัวข้อส่วนช่องที่ถูกบล็อก"
+  },
+  "settings": {
+    "message": "การตั้งค่า",
+    "description": "ชื่อหัวข้อส่วนการตั้งค่า"
+  },
+  "showBlockButtons": {
+    "message": "แสดงปุ่มบล็อก",
+    "description": "การตั้งค่าเพื่อแสดง/ซ่อนปุ่มบล็อก"
+  },
+  "buttonColor": {
+    "message": "สีปุ่ม:",
+    "description": "ป้ายการตั้งค่าสีปุ่ม"
+  },
+  "enableSync": {
+    "message": "เปิดใช้งานการซิงค์ข้ามอุปกรณ์",
+    "description": "ป้ายการตั้งค่าการซิงค์"
+  },
+  "import": {
+    "message": "นำเข้า",
+    "description": "ข้อความปุ่มนำเข้า"
+  },
+  "export": {
+    "message": "ส่งออก",
+    "description": "ข้อความปุ่มส่งออก"
+  },
+  "clearAll": {
+    "message": "ลบทั้งหมด",
+    "description": "ข้อความปุ่มลบทั้งหมด"
+  },
+  "blockedCount": {
+    "message": "ถูกบล็อก:",
+    "description": "ป้ายตัวนับถูกบล็อก"
+  },
+  "remove": {
+    "message": "ลบออก",
+    "description": "ข้อความปุ่มลบออก"
+  },
+  "noBlockedChannels": {
+    "message": "ยังไม่มีช่องที่ถูกบล็อก",
+    "description": "ข้อความสถานะว่าง"
+  },
+  "channelBlocked": {
+    "message": "ถูกบล็อก: $1",
+    "description": "การแจ้งเตือนช่องถูกบล็อก"
+  },
+  "channelUnblocked": {
+    "message": "ปลดบล็อกแล้ว: $1",
+    "description": "การแจ้งเตือนช่องปลดบล็อกแล้ว"
+  },
+  "blockChannel": {
+    "message": "บล็อก $1",
+    "description": "คำแนะนำเครื่องมือปุ่มบล็อกช่อง"
+  },
+  "blocked": {
+    "message": "ถูกบล็อก",
+    "description": "ข้อความซ้อนทับถูกบล็อก"
+  },
+  "loading": {
+    "message": "กำลังโหลด...",
+    "description": "ข้อความการโหลด"
+  },
+  "error": {
+    "message": "เกิดข้อผิดพลาด",
+    "description": "ข้อความข้อผิดพลาดทั่วไป"
+  },
+  "dataExported": {
+    "message": "ส่งออกข้อมูลสำเร็จ",
+    "description": "ข้อความความสำเร็จของการส่งออก"
+  },
+  "dataImported": {
+    "message": "นำเข้าข้อมูลสำเร็จ",
+    "description": "ข้อความความสำเร็จของการนำเข้า"
+  },
+  "importError": {
+    "message": "การนำเข้าข้อมูลล้มเหลว",
+    "description": "ข้อความข้อผิดพลาดการนำเข้า"
+  },
+  "confirmClearAll": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบช่องที่ถูกบล็อกทั้งหมด?",
+    "description": "ข้อความยืนยันสำหรับการลบข้อมูลทั้งหมด"
+  },
+  "allDataCleared": {
+    "message": "ลบข้อมูลทั้งหมดแล้ว",
+    "description": "ข้อความความสำเร็จของการลบทั้งหมด"
+  },
+  "smartFilters": {
+    "message": "ตัวกรองอัจฉริยะ",
+    "description": "ชื่อหัวข้อส่วนตัวกรองอัจฉริยะ"
+  },
+  "blockKeywords": {
+    "message": "บล็อกคำสำคัญ",
+    "description": "คุณลักษณะบล็อกคำสำคัญ"
+  },
+  "enterKeywords": {
+    "message": "ใส่คำสำคัญ (คั่นด้วยจุลภาค)...",
+    "description": "ตัวยึดตำแหน่งป้อนคำสำคัญ"
+  },
+  "partialMatch": {
+    "message": "การจับคู่บางส่วน",
+    "description": "ตัวเลือกการจับคู่บางส่วน"
+  },
+  "exactMatch": {
+    "message": "การจับคู่ที่แน่นอน",
+    "description": "ตัวเลือกการจับคู่ที่แน่นอน"
+  },
+  "addFilter": {
+    "message": "เพิ่มตัวกรอง",
+    "description": "ปุ่มเพิ่มตัวกรอง"
+  }
+}
