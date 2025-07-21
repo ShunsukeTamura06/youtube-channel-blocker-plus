@@ -19,6 +19,52 @@
         <button id="blockBtn" data-i18n="block">Block</button>
       </div>
     </div>
+
+    <div class="section">
+      <h2 data-i18n="smartFilters">Smart Filters</h2>
+      
+      <!-- Keywords Filter -->
+      <div class="filter-section">
+        <h3 data-i18n="blockKeywords">Block Keywords</h3>
+        <div class="filter-options">
+          <div class="input-group">
+            <input type="text" id="keywordsInput" data-i18n-placeholder="enterKeywords" 
+                   placeholder="Enter keywords (comma separated)...">
+            <button id="addKeywordBtn" data-i18n="addFilter">Add Filter</button>
+          </div>
+          <div class="match-options">
+            <label>
+              <input type="radio" name="keywordMatch" value="partial" checked>
+              <span data-i18n="partialMatch">Partial Match</span>
+            </label>
+            <label>
+              <input type="radio" name="keywordMatch" value="exact">
+              <span data-i18n="exactMatch">Exact Match</span>
+            </label>
+          </div>
+        </div>
+        <div id="keywordsList" class="filters-list"></div>
+      </div>
+
+      <!-- Pattern Filter -->
+      <div class="filter-section">
+        <h3 data-i18n="patternFilters">Pattern Filters</h3>
+        <div class="pattern-builder">
+          <div class="pattern-options">
+            <select id="patternType">
+              <option value="contains" data-i18n="patternContains">Contains</option>
+              <option value="startsWith" data-i18n="patternStartsWith">Starts with</option>
+              <option value="endsWith" data-i18n="patternEndsWith">Ends with</option>
+              <option value="exactly" data-i18n="patternExactly">Exactly</option>
+            </select>
+            <input type="text" id="patternValue" data-i18n-placeholder="patternValuePlaceholder" 
+                   placeholder="Enter text...">
+            <button id="addPatternBtn" data-i18n="addFilter">Add Filter</button>
+          </div>
+        </div>
+        <div id="patternsList" class="filters-list"></div>
+      </div>
+    </div>
     
     <div class="section">
       <h2 data-i18n="blockedChannels">Blocked Channels</h2>
@@ -45,6 +91,12 @@
           <span data-i18n="enableSync">Enable sync across devices</span>
         </label>
       </div>
+      <div class="setting-item">
+        <label>
+          <input type="checkbox" id="hideShorts">
+          <span data-i18n="hideShorts">Hide YouTube Shorts</span>
+        </label>
+      </div>
     </div>
     
     <div class="section">
@@ -58,7 +110,8 @@
   
   <div class="footer">
     <div class="stats">
-      <span data-i18n="blockedCount">Blocked:</span> <span id="blockedCount">0</span>
+      <span data-i18n="blockedCount">Blocked:</span> <span id="blockedCount">0</span> |
+      <span data-i18n="filtersCount">Filters:</span> <span id="filtersCount">0</span>
     </div>
   </div>
   
