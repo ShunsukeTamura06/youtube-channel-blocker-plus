@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "YouTube チャンネルブロッカー Plus",
+    "description": "拡張機能名"
+  },
+  "appDescription": {
+    "message": "多言語対応と同期ストレージを備えた高度なYouTubeチャンネルブロック機能",
+    "description": "拡張機能の説明"
+  },
+  "quickBlock": {
+    "message": "クイックブロック",
+    "description": "クイックブロックセクションのタイトル"
+  },
+  "enterChannelName": {
+    "message": "チャンネル名を入力...",
+    "description": "チャンネル入力のプレースホルダー"
+  },
+  "block": {
+    "message": "ブロック",
+    "description": "ブロックボタンのテキスト"
+  },
+  "blockedChannels": {
+    "message": "ブロック済みチャンネル",
+    "description": "ブロック済みチャンネルセクションのタイトル"
+  },
+  "settings": {
+    "message": "設定",
+    "description": "設定セクションのタイトル"
+  },
+  "showBlockButtons": {
+    "message": "ブロックボタンを表示",
+    "description": "ブロックボタンの表示/非表示設定"
+  },
+  "buttonColor": {
+    "message": "ボタンの色:",
+    "description": "ボタンの色設定ラベル"
+  },
+  "enableSync": {
+    "message": "デバイス間で同期",
+    "description": "同期設定ラベル"
+  },
+  "import": {
+    "message": "インポート",
+    "description": "インポートボタンのテキスト"
+  },
+  "export": {
+    "message": "エクスポート",
+    "description": "エクスポートボタンのテキスト"
+  },
+  "clearAll": {
+    "message": "すべてクリア",
+    "description": "すべてクリアボタンのテキスト"
+  },
+  "blockedCount": {
+    "message": "ブロック済み:",
+    "description": "ブロック数ラベル"
+  },
+  "remove": {
+    "message": "削除",
+    "description": "削除ボタンのテキスト"
+  },
+  "noBlockedChannels": {
+    "message": "まだブロックしたチャンネルはありません",
+    "description": "空の状態メッセージ"
+  },
+  "channelBlocked": {
+    "message": "ブロック済み: $1",
+    "description": "チャンネルブロック通知"
+  },
+  "channelUnblocked": {
+    "message": "ブロック解除: $1",
+    "description": "チャンネルブロック解除通知"
+  },
+  "blockChannel": {
+    "message": "$1 をブロック",
+    "description": "ブロックチャンネルボタンのツールチップ"
+  },
+  "blocked": {
+    "message": "ブロック済み",
+    "description": "ブロック済みオーバーレイテキスト"
+  },
+  "loading": {
+    "message": "読み込み中...",
+    "description": "読み込みテキスト"
+  },
+  "error": {
+    "message": "エラーが発生しました",
+    "description": "一般的なエラーメッセージ"
+  },
+  "dataExported": {
+    "message": "データのエクスポートが完了しました",
+    "description": "エクスポート成功メッセージ"
+  },
+  "dataImported": {
+    "message": "データのインポートが完了しました",
+    "description": "インポート成功メッセージ"
+  },
+  "importError": {
+    "message": "データのインポートに失敗しました",
+    "description": "インポートエラーメッセージ"
+  },
+  "confirmClearAll": {
+    "message": "すべてのブロック済みチャンネルをクリアしてもよろしいですか？",
+    "description": "すべてのデータをクリアする確認メッセージ"
+  },
+  "allDataCleared": {
+    "message": "すべてのデータがクリアされました",
+    "description": "すべてクリア成功メッセージ"
+  }
+}

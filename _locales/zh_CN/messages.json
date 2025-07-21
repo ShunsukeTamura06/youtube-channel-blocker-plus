@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "YouTube 频道屏蔽器 Plus",
+    "description": "扩展名称"
+  },
+  "appDescription": {
+    "message": "具有多语言支持和同步存储的高级 YouTube 频道屏蔽功能",
+    "description": "扩展描述"
+  },
+  "quickBlock": {
+    "message": "快速屏蔽",
+    "description": "快速屏蔽部分标题"
+  },
+  "enterChannelName": {
+    "message": "输入频道名称...",
+    "description": "频道输入占位符"
+  },
+  "block": {
+    "message": "屏蔽",
+    "description": "屏蔽按钮文字"
+  },
+  "blockedChannels": {
+    "message": "已屏蔽频道",
+    "description": "已屏蔽频道部分标题"
+  },
+  "settings": {
+    "message": "设置",
+    "description": "设置部分标题"
+  },
+  "showBlockButtons": {
+    "message": "显示屏蔽按钮",
+    "description": "显示/隐藏屏蔽按钮设置"
+  },
+  "buttonColor": {
+    "message": "按钮颜色：",
+    "description": "按钮颜色设置标签"
+  },
+  "enableSync": {
+    "message": "跨设备同步",
+    "description": "同步设置标签"
+  },
+  "import": {
+    "message": "导入",
+    "description": "导入按钮文字"
+  },
+  "export": {
+    "message": "导出",
+    "description": "导出按钮文字"
+  },
+  "clearAll": {
+    "message": "清除全部",
+    "description": "清除全部按钮文字"
+  },
+  "blockedCount": {
+    "message": "已屏蔽：",
+    "description": "屏蔽计数标签"
+  },
+  "remove": {
+    "message": "移除",
+    "description": "移除按钮文字"
+  },
+  "noBlockedChannels": {
+    "message": "还没有屏蔽的频道",
+    "description": "空状态消息"
+  },
+  "channelBlocked": {
+    "message": "已屏蔽：$1",
+    "description": "频道屏蔽通知"
+  },
+  "channelUnblocked": {
+    "message": "已取消屏蔽：$1",
+    "description": "频道取消屏蔽通知"
+  },
+  "blockChannel": {
+    "message": "屏蔽 $1",
+    "description": "屏蔽频道按钮工具提示"
+  },
+  "blocked": {
+    "message": "已屏蔽",
+    "description": "屏蔽覆盖文字"
+  },
+  "loading": {
+    "message": "加载中...",
+    "description": "加载文字"
+  },
+  "error": {
+    "message": "发生错误",
+    "description": "通用错误消息"
+  },
+  "dataExported": {
+    "message": "数据导出成功",
+    "description": "导出成功消息"
+  },
+  "dataImported": {
+    "message": "数据导入成功",
+    "description": "导入成功消息"
+  },
+  "importError": {
+    "message": "数据导入失败",
+    "description": "导入错误消息"
+  },
+  "confirmClearAll": {
+    "message": "确定要清除所有屏蔽的频道吗？",
+    "description": "清除所有数据确认消息"
+  },
+  "allDataCleared": {
+    "message": "所有数据已清除",
+    "description": "清除全部成功消息"
+  }
+}

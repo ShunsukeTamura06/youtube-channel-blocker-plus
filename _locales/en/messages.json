@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "YouTube Channel Blocker Plus",
+    "description": "Extension name"
+  },
+  "appDescription": {
+    "message": "Advanced YouTube channel blocking with multi-language support and sync storage",
+    "description": "Extension description"
+  },
+  "quickBlock": {
+    "message": "Quick Block",
+    "description": "Quick block section title"
+  },
+  "enterChannelName": {
+    "message": "Enter channel name...",
+    "description": "Placeholder for channel input"
+  },
+  "block": {
+    "message": "Block",
+    "description": "Block button text"
+  },
+  "blockedChannels": {
+    "message": "Blocked Channels",
+    "description": "Blocked channels section title"
+  },
+  "settings": {
+    "message": "Settings",
+    "description": "Settings section title"
+  },
+  "showBlockButtons": {
+    "message": "Show block buttons",
+    "description": "Setting to show/hide block buttons"
+  },
+  "buttonColor": {
+    "message": "Button color:",
+    "description": "Button color setting label"
+  },
+  "enableSync": {
+    "message": "Enable sync across devices",
+    "description": "Sync setting label"
+  },
+  "import": {
+    "message": "Import",
+    "description": "Import button text"
+  },
+  "export": {
+    "message": "Export",
+    "description": "Export button text"
+  },
+  "clearAll": {
+    "message": "Clear All",
+    "description": "Clear all button text"
+  },
+  "blockedCount": {
+    "message": "Blocked:",
+    "description": "Blocked count label"
+  },
+  "remove": {
+    "message": "Remove",
+    "description": "Remove button text"
+  },
+  "noBlockedChannels": {
+    "message": "No blocked channels yet",
+    "description": "Empty state message"
+  },
+  "channelBlocked": {
+    "message": "Blocked: $1",
+    "description": "Channel blocked notification"
+  },
+  "channelUnblocked": {
+    "message": "Unblocked: $1",
+    "description": "Channel unblocked notification"
+  },
+  "blockChannel": {
+    "message": "Block $1",
+    "description": "Block channel button tooltip"
+  },
+  "blocked": {
+    "message": "BLOCKED",
+    "description": "Blocked overlay text"
+  },
+  "loading": {
+    "message": "Loading...",
+    "description": "Loading text"
+  },
+  "error": {
+    "message": "An error occurred",
+    "description": "Generic error message"
+  },
+  "dataExported": {
+    "message": "Data exported successfully",
+    "description": "Export success message"
+  },
+  "dataImported": {
+    "message": "Data imported successfully",
+    "description": "Import success message"
+  },
+  "importError": {
+    "message": "Failed to import data",
+    "description": "Import error message"
+  },
+  "confirmClearAll": {
+    "message": "Are you sure you want to clear all blocked channels?",
+    "description": "Confirmation message for clearing all data"
+  },
+  "allDataCleared": {
+    "message": "All data cleared",
+    "description": "Clear all success message"
+  }
+}
