@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "YouTube 채널 차단기 Plus",
+    "description": "확장 프로그램 이름"
+  },
+  "appDescription": {
+    "message": "다국어 지원 및 동기화 저장소를 갖춘 고급 YouTube 채널 차단 기능",
+    "description": "확장 프로그램 설명"
+  },
+  "quickBlock": {
+    "message": "빠른 차단",
+    "description": "빠른 차단 섹션 제목"
+  },
+  "enterChannelName": {
+    "message": "채널 이름 입력...",
+    "description": "채널 입력 플레이스홀더"
+  },
+  "block": {
+    "message": "차단",
+    "description": "차단 버튼 텍스트"
+  },
+  "blockedChannels": {
+    "message": "차단된 채널",
+    "description": "차단된 채널 섹션 제목"
+  },
+  "settings": {
+    "message": "설정",
+    "description": "설정 섹션 제목"
+  },
+  "showBlockButtons": {
+    "message": "차단 버튼 표시",
+    "description": "차단 버튼 표시/숨기기 설정"
+  },
+  "buttonColor": {
+    "message": "버튼 색상:",
+    "description": "버튼 색상 설정 레이블"
+  },
+  "enableSync": {
+    "message": "기기 간 동기화 활성화",
+    "description": "동기화 설정 레이블"
+  },
+  "import": {
+    "message": "가져오기",
+    "description": "가져오기 버튼 텍스트"
+  },
+  "export": {
+    "message": "내보내기",
+    "description": "내보내기 버튼 텍스트"
+  },
+  "clearAll": {
+    "message": "모두 지우기",
+    "description": "모두 지우기 버튼 텍스트"
+  },
+  "blockedCount": {
+    "message": "차단됨:",
+    "description": "차단 카운트 레이블"
+  },
+  "remove": {
+    "message": "제거",
+    "description": "제거 버튼 텍스트"
+  },
+  "noBlockedChannels": {
+    "message": "차단된 채널이 아직 없습니다",
+    "description": "빈 상태 메시지"
+  },
+  "channelBlocked": {
+    "message": "차단됨: $1",
+    "description": "채널 차단 알림"
+  },
+  "channelUnblocked": {
+    "message": "차단 해제됨: $1",
+    "description": "채널 차단 해제 알림"
+  },
+  "blockChannel": {
+    "message": "$1 차단",
+    "description": "채널 차단 버튼 툴팁"
+  },
+  "blocked": {
+    "message": "차단됨",
+    "description": "차단됨 오버레이 텍스트"
+  },
+  "loading": {
+    "message": "로딩 중...",
+    "description": "로딩 텍스트"
+  },
+  "error": {
+    "message": "오류가 발생했습니다",
+    "description": "일반 오류 메시지"
+  },
+  "dataExported": {
+    "message": "데이터가 성공적으로 내보내졌습니다",
+    "description": "내보내기 성공 메시지"
+  },
+  "dataImported": {
+    "message": "데이터가 성공적으로 가져와졌습니다",
+    "description": "가져오기 성공 메시지"
+  },
+  "importError": {
+    "message": "데이터 가져오기에 실패했습니다",
+    "description": "가져오기 오류 메시지"
+  },
+  "confirmClearAll": {
+    "message": "모든 차단된 채널을 지우시겠습니까?",
+    "description": "모든 데이터 지우기 확인 메시지"
+  },
+  "allDataCleared": {
+    "message": "모든 데이터가 지워졌습니다",
+    "description": "모두 지우기 성공 메시지"
+  }
+}

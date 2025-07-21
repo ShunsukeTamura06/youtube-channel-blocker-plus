@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "YouTube Kanal-Blocker Plus",
+    "description": "Erweiterungsname"
+  },
+  "appDescription": {
+    "message": "Erweiterte YouTube-Kanalblockierung mit mehrsprachiger Unterstützung und Sync-Speicher",
+    "description": "Erweiterungsbeschreibung"
+  },
+  "quickBlock": {
+    "message": "Schnellblockierung",
+    "description": "Titel des Schnellblockierungsbereichs"
+  },
+  "enterChannelName": {
+    "message": "Kanalnamen eingeben...",
+    "description": "Platzhalter für Kanaleingabe"
+  },
+  "block": {
+    "message": "Blockieren",
+    "description": "Text der Blockieren-Schaltfläche"
+  },
+  "blockedChannels": {
+    "message": "Blockierte Kanäle",
+    "description": "Titel des Bereichs für blockierte Kanäle"
+  },
+  "settings": {
+    "message": "Einstellungen",
+    "description": "Titel des Einstellungsbereichs"
+  },
+  "showBlockButtons": {
+    "message": "Blockier-Schaltflächen anzeigen",
+    "description": "Einstellung zum Anzeigen/Verbergen von Blockier-Schaltflächen"
+  },
+  "buttonColor": {
+    "message": "Schaltflächenfarbe:",
+    "description": "Beschriftung der Schaltflächenfarben-Einstellung"
+  },
+  "enableSync": {
+    "message": "Geräteübergreifende Synchronisation aktivieren",
+    "description": "Beschriftung der Synchronisationseinstellung"
+  },
+  "import": {
+    "message": "Importieren",
+    "description": "Text der Importieren-Schaltfläche"
+  },
+  "export": {
+    "message": "Exportieren",
+    "description": "Text der Exportieren-Schaltfläche"
+  },
+  "clearAll": {
+    "message": "Alle löschen",
+    "description": "Text der Alle-löschen-Schaltfläche"
+  },
+  "blockedCount": {
+    "message": "Blockiert:",
+    "description": "Beschriftung des Blockiert-Zählers"
+  },
+  "remove": {
+    "message": "Entfernen",
+    "description": "Text der Entfernen-Schaltfläche"
+  },
+  "noBlockedChannels": {
+    "message": "Noch keine blockierten Kanäle",
+    "description": "Leere Zustandsnachricht"
+  },
+  "channelBlocked": {
+    "message": "Blockiert: $1",
+    "description": "Benachrichtigung über blockierten Kanal"
+  },
+  "channelUnblocked": {
+    "message": "Freigegeben: $1",
+    "description": "Benachrichtigung über freigegebenen Kanal"
+  },
+  "blockChannel": {
+    "message": "$1 blockieren",
+    "description": "Tooltip der Kanal-blockieren-Schaltfläche"
+  },
+  "blocked": {
+    "message": "BLOCKIERT",
+    "description": "Blockiert-Overlay-Text"
+  },
+  "loading": {
+    "message": "Lädt...",
+    "description": "Ladetext"
+  },
+  "error": {
+    "message": "Ein Fehler ist aufgetreten",
+    "description": "Allgemeine Fehlermeldung"
+  },
+  "dataExported": {
+    "message": "Daten erfolgreich exportiert",
+    "description": "Export-Erfolgsmeldung"
+  },
+  "dataImported": {
+    "message": "Daten erfolgreich importiert",
+    "description": "Import-Erfolgsmeldung"
+  },
+  "importError": {
+    "message": "Datenimport fehlgeschlagen",
+    "description": "Import-Fehlermeldung"
+  },
+  "confirmClearAll": {
+    "message": "Sind Sie sicher, dass Sie alle blockierten Kanäle löschen möchten?",
+    "description": "Bestätigungsnachricht zum Löschen aller Daten"
+  },
+  "allDataCleared": {
+    "message": "Alle Daten gelöscht",
+    "description": "Alle-löschen-Erfolgsmeldung"
+  }
+}

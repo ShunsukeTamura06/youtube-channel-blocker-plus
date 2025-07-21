@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "Bloqueador de Canales de YouTube Plus",
+    "description": "Nombre de la extensión"
+  },
+  "appDescription": {
+    "message": "Bloqueo avanzado de canales de YouTube con soporte multiidioma y almacenamiento sincronizado",
+    "description": "Descripción de la extensión"
+  },
+  "quickBlock": {
+    "message": "Bloqueo Rápido",
+    "description": "Título de sección de bloqueo rápido"
+  },
+  "enterChannelName": {
+    "message": "Ingrese nombre del canal...",
+    "description": "Marcador de posición para entrada de canal"
+  },
+  "block": {
+    "message": "Bloquear",
+    "description": "Texto del botón bloquear"
+  },
+  "blockedChannels": {
+    "message": "Canales Bloqueados",
+    "description": "Título de sección de canales bloqueados"
+  },
+  "settings": {
+    "message": "Configuración",
+    "description": "Título de sección de configuración"
+  },
+  "showBlockButtons": {
+    "message": "Mostrar botones de bloqueo",
+    "description": "Configuración para mostrar/ocultar botones de bloqueo"
+  },
+  "buttonColor": {
+    "message": "Color del botón:",
+    "description": "Etiqueta de configuración de color de botón"
+  },
+  "enableSync": {
+    "message": "Habilitar sincronización entre dispositivos",
+    "description": "Etiqueta de configuración de sincronización"
+  },
+  "import": {
+    "message": "Importar",
+    "description": "Texto del botón importar"
+  },
+  "export": {
+    "message": "Exportar",
+    "description": "Texto del botón exportar"
+  },
+  "clearAll": {
+    "message": "Limpiar Todo",
+    "description": "Texto del botón limpiar todo"
+  },
+  "blockedCount": {
+    "message": "Bloqueados:",
+    "description": "Etiqueta de contador de bloqueados"
+  },
+  "remove": {
+    "message": "Eliminar",
+    "description": "Texto del botón eliminar"
+  },
+  "noBlockedChannels": {
+    "message": "Aún no hay canales bloqueados",
+    "description": "Mensaje de estado vacío"
+  },
+  "channelBlocked": {
+    "message": "Bloqueado: $1",
+    "description": "Notificación de canal bloqueado"
+  },
+  "channelUnblocked": {
+    "message": "Desbloqueado: $1",
+    "description": "Notificación de canal desbloqueado"
+  },
+  "blockChannel": {
+    "message": "Bloquear $1",
+    "description": "Información sobre herramientas del botón bloquear canal"
+  },
+  "blocked": {
+    "message": "BLOQUEADO",
+    "description": "Texto de superposición bloqueado"
+  },
+  "loading": {
+    "message": "Cargando...",
+    "description": "Texto de carga"
+  },
+  "error": {
+    "message": "Ocurrió un error",
+    "description": "Mensaje de error genérico"
+  },
+  "dataExported": {
+    "message": "Datos exportados exitosamente",
+    "description": "Mensaje de éxito de exportación"
+  },
+  "dataImported": {
+    "message": "Datos importados exitosamente",
+    "description": "Mensaje de éxito de importación"
+  },
+  "importError": {
+    "message": "Error al importar datos",
+    "description": "Mensaje de error de importación"
+  },
+  "confirmClearAll": {
+    "message": "¿Está seguro de que desea limpiar todos los canales bloqueados?",
+    "description": "Mensaje de confirmación para limpiar todos los datos"
+  },
+  "allDataCleared": {
+    "message": "Todos los datos limpiados",
+    "description": "Mensaje de éxito de limpiar todo"
+  }
+}

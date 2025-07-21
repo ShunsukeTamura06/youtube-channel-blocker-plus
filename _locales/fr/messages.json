@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "Bloqueur de Chaînes YouTube Plus",
+    "description": "Nom de l'extension"
+  },
+  "appDescription": {
+    "message": "Blocage avancé de chaînes YouTube avec support multilingue et stockage synchronisé",
+    "description": "Description de l'extension"
+  },
+  "quickBlock": {
+    "message": "Blocage Rapide",
+    "description": "Titre de section de blocage rapide"
+  },
+  "enterChannelName": {
+    "message": "Entrez le nom de la chaîne...",
+    "description": "Placeholder pour la saisie de chaîne"
+  },
+  "block": {
+    "message": "Bloquer",
+    "description": "Texte du bouton bloquer"
+  },
+  "blockedChannels": {
+    "message": "Chaînes Bloquées",
+    "description": "Titre de section des chaînes bloquées"
+  },
+  "settings": {
+    "message": "Paramètres",
+    "description": "Titre de section des paramètres"
+  },
+  "showBlockButtons": {
+    "message": "Afficher les boutons de blocage",
+    "description": "Paramètre pour afficher/masquer les boutons de blocage"
+  },
+  "buttonColor": {
+    "message": "Couleur du bouton :",
+    "description": "Étiquette de paramètre de couleur de bouton"
+  },
+  "enableSync": {
+    "message": "Activer la synchronisation entre appareils",
+    "description": "Étiquette de paramètre de synchronisation"
+  },
+  "import": {
+    "message": "Importer",
+    "description": "Texte du bouton importer"
+  },
+  "export": {
+    "message": "Exporter",
+    "description": "Texte du bouton exporter"
+  },
+  "clearAll": {
+    "message": "Tout Effacer",
+    "description": "Texte du bouton tout effacer"
+  },
+  "blockedCount": {
+    "message": "Bloqués :",
+    "description": "Étiquette de compteur de bloqués"
+  },
+  "remove": {
+    "message": "Supprimer",
+    "description": "Texte du bouton supprimer"
+  },
+  "noBlockedChannels": {
+    "message": "Aucune chaîne bloquée pour le moment",
+    "description": "Message d'état vide"
+  },
+  "channelBlocked": {
+    "message": "Bloqué : $1",
+    "description": "Notification de chaîne bloquée"
+  },
+  "channelUnblocked": {
+    "message": "Débloqué : $1",
+    "description": "Notification de chaîne débloquée"
+  },
+  "blockChannel": {
+    "message": "Bloquer $1",
+    "description": "Infobulle du bouton bloquer chaîne"
+  },
+  "blocked": {
+    "message": "BLOQUÉ",
+    "description": "Texte de superposition bloqué"
+  },
+  "loading": {
+    "message": "Chargement...",
+    "description": "Texte de chargement"
+  },
+  "error": {
+    "message": "Une erreur s'est produite",
+    "description": "Message d'erreur générique"
+  },
+  "dataExported": {
+    "message": "Données exportées avec succès",
+    "description": "Message de succès d'exportation"
+  },
+  "dataImported": {
+    "message": "Données importées avec succès",
+    "description": "Message de succès d'importation"
+  },
+  "importError": {
+    "message": "Échec de l'importation des données",
+    "description": "Message d'erreur d'importation"
+  },
+  "confirmClearAll": {
+    "message": "Êtes-vous sûr de vouloir effacer toutes les chaînes bloquées ?",
+    "description": "Message de confirmation pour effacer toutes les données"
+  },
+  "allDataCleared": {
+    "message": "Toutes les données effacées",
+    "description": "Message de succès d'effacement total"
+  }
+}
