@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Blokovač Kanálov Plus",
+    "description": "Názov rozšírenia"
+  },
+  "appDescription": {
+    "message": "Pokročilé blokovanie YouTube kanálov s viacjazyčnou podporou a synchronizovaným ukladaním",
+    "description": "Popis rozšírenia"
+  },
+  "quickBlock": {
+    "message": "Rýchle Blokovanie",
+    "description": "Názov sekcie rýchleho blokovania"
+  },
+  "enterChannelName": {
+    "message": "Zadajte názov kanála...",
+    "description": "Zástupný text pre zadávanie kanála"
+  },
+  "block": {
+    "message": "Blokovať",
+    "description": "Text tlačidla blokovania"
+  },
+  "blockedChannels": {
+    "message": "Blokované Kanály",
+    "description": "Názov sekcie blokovaných kanálov"
+  },
+  "settings": {
+    "message": "Nastavenia",
+    "description": "Názov sekcie nastavení"
+  },
+  "showBlockButtons": {
+    "message": "Zobraziť blokovacie tlačidlá",
+    "description": "Nastavenie pre zobrazenie/skrytie blokovacích tlačidiel"
+  },
+  "buttonColor": {
+    "message": "Farba tlačidla:",
+    "description": "Označenie nastavenia farby tlačidla"
+  },
+  "enableSync": {
+    "message": "Povoliť synchronizáciu medzi zariadeniami",
+    "description": "Označenie nastavenia synchronizácie"
+  },
+  "import": {
+    "message": "Importovať",
+    "description": "Text tlačidla importovania"
+  },
+  "export": {
+    "message": "Exportovať",
+    "description": "Text tlačidla exportovania"
+  },
+  "clearAll": {
+    "message": "Vymazať Všetko",
+    "description": "Text tlačidla vymazať všetko"
+  },
+  "blockedCount": {
+    "message": "Blokované:",
+    "description": "Označenie počítadla blokovaných"
+  },
+  "remove": {
+    "message": "Odstrániť",
+    "description": "Text tlačidla odstránenia"
+  },
+  "noBlockedChannels": {
+    "message": "Zatiaľ žiadne blokované kanály",
+    "description": "Správa prázdneho stavu"
+  },
+  "channelBlocked": {
+    "message": "Blokované: $1",
+    "description": "Oznámenie o blokovaní kanála"
+  },
+  "channelUnblocked": {
+    "message": "Odblokované: $1",
+    "description": "Oznámenie o odblokovaní kanála"
+  },
+  "blockChannel": {
+    "message": "Blokovať $1",
+    "description": "Tooltip tlačidla blokovania kanála"
+  },
+  "blocked": {
+    "message": "BLOKOVANÉ",
+    "description": "Text prekrytia blokovaného"
+  },
+  "loading": {
+    "message": "Načítava sa...",
+    "description": "Text načítavania"
+  },
+  "error": {
+    "message": "Nastala chyba",
+    "description": "Všeobecná chybová správa"
+  },
+  "dataExported": {
+    "message": "Údaje úspešne exportované",
+    "description": "Správa úspechu exportu"
+  },
+  "dataImported": {
+    "message": "Údaje úspešne importované",
+    "description": "Správa úspechu importu"
+  },
+  "importError": {
+    "message": "Nepodarilo sa importovať údaje",
+    "description": "Správa chyby importu"
+  },
+  "confirmClearAll": {
+    "message": "Ste si istí, že chcete vymazať všetky blokované kanály?",
+    "description": "Potvrdzovacia správa pre vymazanie všetkých údajov"
+  },
+  "allDataCleared": {
+    "message": "Všetky údaje vymazané",
+    "description": "Správa úspechu vymazať všetko"
+  },
+  "smartFilters": {
+    "message": "Inteligentné Filtre",
+    "description": "Názov sekcie inteligentných filtrov"
+  },
+  "blockKeywords": {
+    "message": "Blokovať kľúčové slová",
+    "description": "Funkcia blokovania kľúčových slov"
+  },
+  "enterKeywords": {
+    "message": "Zadajte kľúčové slová (oddelené čiarkami)...",
+    "description": "Zástupný text zadávania kľúčových slov"
+  },
+  "partialMatch": {
+    "message": "Čiastočná zhoda",
+    "description": "Možnosť čiastočnej zhody"
+  },
+  "exactMatch": {
+    "message": "Presná zhoda",
+    "description": "Možnosť presnej zhody"
+  },
+  "addFilter": {
+    "message": "Pridať filter",
+    "description": "Tlačidlo pridania filtra"
+  }
+}

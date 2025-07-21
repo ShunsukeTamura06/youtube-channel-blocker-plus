@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Zaviralec Kanalov Plus",
+    "description": "Ime razširitve"
+  },
+  "appDescription": {
+    "message": "Napredno zaviranje YouTube kanalov z večjezično podporo in sinhroniziranim shranjevanjem",
+    "description": "Opis razširitve"
+  },
+  "quickBlock": {
+    "message": "Hitro Zaviranje",
+    "description": "Naslov odseka za hitro zaviranje"
+  },
+  "enterChannelName": {
+    "message": "Vnesite ime kanala...",
+    "description": "Nadomestni tekst za vnos kanala"
+  },
+  "block": {
+    "message": "Zaviraj",
+    "description": "Besedilo gumba za zaviranje"
+  },
+  "blockedChannels": {
+    "message": "Zavirani Kanali",
+    "description": "Naslov odseka zaviranih kanalov"
+  },
+  "settings": {
+    "message": "Nastavitve",
+    "description": "Naslov odseka nastavitev"
+  },
+  "showBlockButtons": {
+    "message": "Prikaži gumbov za zaviranje",
+    "description": "Nastavitev za prikaz/skrivanje gumbov za zaviranje"
+  },
+  "buttonColor": {
+    "message": "Barva gumba:",
+    "description": "Oznaka nastavitve barve gumba"
+  },
+  "enableSync": {
+    "message": "Omogoči sinhronizacijo med napravami",
+    "description": "Oznaka nastavitve sinhronizacije"
+  },
+  "import": {
+    "message": "Uvozi",
+    "description": "Besedilo gumba za uvoz"
+  },
+  "export": {
+    "message": "Izvozi",
+    "description": "Besedilo gumba za izvoz"
+  },
+  "clearAll": {
+    "message": "Počisti Vse",
+    "description": "Besedilo gumba za počiščenje vsega"
+  },
+  "blockedCount": {
+    "message": "Zaviranih:",
+    "description": "Oznaka števca zaviranih"
+  },
+  "remove": {
+    "message": "Odstrani",
+    "description": "Besedilo gumba za odstranjevanje"
+  },
+  "noBlockedChannels": {
+    "message": "Še ni zaviranih kanalov",
+    "description": "Sporočilo praznega stanja"
+  },
+  "channelBlocked": {
+    "message": "Zaviran: $1",
+    "description": "Obvestilo o zaviranju kanala"
+  },
+  "channelUnblocked": {
+    "message": "Odzaviran: $1",
+    "description": "Obvestilo o odzaviranju kanala"
+  },
+  "blockChannel": {
+    "message": "Zaviraj $1",
+    "description": "Namig gumba za zaviranje kanala"
+  },
+  "blocked": {
+    "message": "ZAVIRAN",
+    "description": "Besedilo prekrova zaviranja"
+  },
+  "loading": {
+    "message": "Nalaganje...",
+    "description": "Besedilo nalaganja"
+  },
+  "error": {
+    "message": "Prišlo je do napake",
+    "description": "Splošno sporočilo o napaki"
+  },
+  "dataExported": {
+    "message": "Podatki uspešno izvoženi",
+    "description": "Sporočilo o uspešnem izvozu"
+  },
+  "dataImported": {
+    "message": "Podatki uspešno uvoženi",
+    "description": "Sporočilo o uspešnem uvozu"
+  },
+  "importError": {
+    "message": "Uvoz podatkov neuspešen",
+    "description": "Sporočilo o napaki uvoza"
+  },
+  "confirmClearAll": {
+    "message": "Ali ste prepričani, da želite počistiti vse zavirane kanale?",
+    "description": "Potrditveno sporočilo za počiščenje vseh podatkov"
+  },
+  "allDataCleared": {
+    "message": "Vsi podatki počiščeni",
+    "description": "Sporočilo o uspešnem počiščenju vsega"
+  },
+  "smartFilters": {
+    "message": "Pametni Filtri",
+    "description": "Naslov odseka pametnih filtrov"
+  },
+  "blockKeywords": {
+    "message": "Zaviraj ključne besede",
+    "description": "Funkcija zaviranja ključnih besed"
+  },
+  "enterKeywords": {
+    "message": "Vnesite ključne besede (ločene z vejicami)...",
+    "description": "Nadomestni tekst vnosa ključnih besed"
+  },
+  "partialMatch": {
+    "message": "Delno ujemanje",
+    "description": "Možnost delnega ujemanja"
+  },
+  "exactMatch": {
+    "message": "Natančno ujemanje",
+    "description": "Možnost natančnega ujemanja"
+  },
+  "addFilter": {
+    "message": "Dodaj filter",
+    "description": "Gumb za dodajanje filtra"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanālu Bloķētājs Plus",
+    "description": "Paplašinājuma nosaukums"
+  },
+  "appDescription": {
+    "message": "Uzlabota YouTube kanālu bloķēšana ar daudzvalodu atbalstu un sinhronizētu krātuvi",
+    "description": "Paplašinājuma apraksts"
+  },
+  "quickBlock": {
+    "message": "Ātra Bloķēšana",
+    "description": "Ātras bloķēšanas sadaļas nosaukums"
+  },
+  "enterChannelName": {
+    "message": "Ievadiet kanāla nosaukumu...",
+    "description": "Kanāla ievades vietturis"
+  },
+  "block": {
+    "message": "Bloķēt",
+    "description": "Bloķēšanas pogas teksts"
+  },
+  "blockedChannels": {
+    "message": "Bloķētie Kanāli",
+    "description": "Bloķēto kanālu sadaļas nosaukums"
+  },
+  "settings": {
+    "message": "Iestatījumi",
+    "description": "Iestatījumu sadaļas nosaukums"
+  },
+  "showBlockButtons": {
+    "message": "Rādīt bloķēšanas pogas",
+    "description": "Iestatījums rādīt/paslēpt bloķēšanas pogas"
+  },
+  "buttonColor": {
+    "message": "Pogas krāsa:",
+    "description": "Pogas krāsas iestatījuma etiķete"
+  },
+  "enableSync": {
+    "message": "Iespējot sinhronizāciju starp ierīcēm",
+    "description": "Sinhronizācijas iestatījuma etiķete"
+  },
+  "import": {
+    "message": "Importēt",
+    "description": "Importēšanas pogas teksts"
+  },
+  "export": {
+    "message": "Eksportēt",
+    "description": "Eksportēšanas pogas teksts"
+  },
+  "clearAll": {
+    "message": "Notīrīt Visu",
+    "description": "Notīrīt visu pogas teksts"
+  },
+  "blockedCount": {
+    "message": "Bloķēti:",
+    "description": "Bloķēto skaitītāja etiķete"
+  },
+  "remove": {
+    "message": "Noņemt",
+    "description": "Noņemšanas pogas teksts"
+  },
+  "noBlockedChannels": {
+    "message": "Pagaidām nav bloķētu kanālu",
+    "description": "Tukšas stāvokļa ziņojums"
+  },
+  "channelBlocked": {
+    "message": "Bloķēts: $1",
+    "description": "Kanāla bloķēšanas paziņojums"
+  },
+  "channelUnblocked": {
+    "message": "Atbloķēts: $1",
+    "description": "Kanāla atbloķēšanas paziņojums"
+  },
+  "blockChannel": {
+    "message": "Bloķēt $1",
+    "description": "Bloķēt kanālu pogas padoms"
+  },
+  "blocked": {
+    "message": "BLOĶĒTS",
+    "description": "Bloķēšanas pārklājuma teksts"
+  },
+  "loading": {
+    "message": "Ielādē...",
+    "description": "Ielādes teksts"
+  },
+  "error": {
+    "message": "Radās kļūda",
+    "description": "Vispārīgs kļūdas ziņojums"
+  },
+  "dataExported": {
+    "message": "Dati veiksmīgi eksportēti",
+    "description": "Eksportēšanas panākumu ziņojums"
+  },
+  "dataImported": {
+    "message": "Dati veiksmīgi importēti",
+    "description": "Importēšanas panākumu ziņojums"
+  },
+  "importError": {
+    "message": "Neizdevās importēt datus",
+    "description": "Importēšanas kļūdas ziņojums"
+  },
+  "confirmClearAll": {
+    "message": "Vai tiešām vēlaties notīrīt visus bloķētos kanālus?",
+    "description": "Apstiprinājuma ziņojums visu datu notīrīšanai"
+  },
+  "allDataCleared": {
+    "message": "Visi dati notīrīti",
+    "description": "Notīrīt visu panākumu ziņojums"
+  },
+  "smartFilters": {
+    "message": "Viedīe Filtri",
+    "description": "Viedo filtru sadaļas nosaukums"
+  },
+  "blockKeywords": {
+    "message": "Bloķēt atslēgvārdus",
+    "description": "Atslēgvārdu bloķēšanas funkcija"
+  },
+  "enterKeywords": {
+    "message": "Ievadiet atslēgvārdus (atdalītus ar komatu)...",
+    "description": "Atslēgvārdu ievades vietturis"
+  },
+  "partialMatch": {
+    "message": "Daļēja atbilstība",
+    "description": "Daļējas atbilstības opcija"
+  },
+  "exactMatch": {
+    "message": "Precīza atbilstība",
+    "description": "Precīzas atbilstības opcija"
+  },
+  "addFilter": {
+    "message": "Pievienot filtru",
+    "description": "Pievienot filtru poga"
+  }
+}

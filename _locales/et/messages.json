@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanalite Blokeerija Plus",
+    "description": "Laienduse nimi"
+  },
+  "appDescription": {
+    "message": "Täpsustatud YouTube kanalite blokeerimine mitmekeelse toega ja sünkroniseeritud salvestusega",
+    "description": "Laienduse kirjeldus"
+  },
+  "quickBlock": {
+    "message": "Kiire Blokeerimine",
+    "description": "Kiire blokeerimise jaotise pealkiri"
+  },
+  "enterChannelName": {
+    "message": "Sisestage kanali nimi...",
+    "description": "Kanali sisendi kohatäide"
+  },
+  "block": {
+    "message": "Blokeeri",
+    "description": "Blokeerimise nupu tekst"
+  },
+  "blockedChannels": {
+    "message": "Blokeeritud Kanalid",
+    "description": "Blokeeritud kanalite jaotise pealkiri"
+  },
+  "settings": {
+    "message": "Seaded",
+    "description": "Seadete jaotise pealkiri"
+  },
+  "showBlockButtons": {
+    "message": "Näita blokeerimise nuppe",
+    "description": "Seade blokeerimise nuppude näitamiseks/peitamiseks"
+  },
+  "buttonColor": {
+    "message": "Nupu värv:",
+    "description": "Nupu värvi seade silt"
+  },
+  "enableSync": {
+    "message": "Luba sünkroniseerimine seadmete vahel",
+    "description": "Sünkroniseerimise seade silt"
+  },
+  "import": {
+    "message": "Impordi",
+    "description": "Importimise nupu tekst"
+  },
+  "export": {
+    "message": "Ekspordi",
+    "description": "Eksportimise nupu tekst"
+  },
+  "clearAll": {
+    "message": "Kustuta Kõik",
+    "description": "Kõigi kustutamise nupu tekst"
+  },
+  "blockedCount": {
+    "message": "Blokeeritud:",
+    "description": "Blokeeritud loenduri silt"
+  },
+  "remove": {
+    "message": "Eemalda",
+    "description": "Eemaldamise nupu tekst"
+  },
+  "noBlockedChannels": {
+    "message": "Blokeeritud kanaleid veel pole",
+    "description": "Tühja oleku teade"
+  },
+  "channelBlocked": {
+    "message": "Blokeeritud: $1",
+    "description": "Kanali blokeerimise teade"
+  },
+  "channelUnblocked": {
+    "message": "Blokk eemaldatud: $1",
+    "description": "Kanali bloki eemaldamise teade"
+  },
+  "blockChannel": {
+    "message": "Blokeeri $1",
+    "description": "Kanali blokeerimise nupu nõuanne"
+  },
+  "blocked": {
+    "message": "BLOKEERITUD",
+    "description": "Blokeerimise katmise tekst"
+  },
+  "loading": {
+    "message": "Laadib...",
+    "description": "Laadimise tekst"
+  },
+  "error": {
+    "message": "Tekkis viga",
+    "description": "Üldine veateade"
+  },
+  "dataExported": {
+    "message": "Andmed edukalt eksporditud",
+    "description": "Eksportimise õnnestumise teade"
+  },
+  "dataImported": {
+    "message": "Andmed edukalt imporditud",
+    "description": "Importimise õnnestumise teade"
+  },
+  "importError": {
+    "message": "Andmete importimine ebaõnnestus",
+    "description": "Importimise vea teade"
+  },
+  "confirmClearAll": {
+    "message": "Kas olete kindel, et soovite kõik blokeeritud kanalid kustutada?",
+    "description": "Kõigi andmete kustutamise kinnituse teade"
+  },
+  "allDataCleared": {
+    "message": "Kõik andmed kustutatud",
+    "description": "Kõigi kustutamise õnnestumise teade"
+  },
+  "smartFilters": {
+    "message": "Targad Filtrid",
+    "description": "Targade filtrite jaotise pealkiri"
+  },
+  "blockKeywords": {
+    "message": "Blokeeri märksõnad",
+    "description": "Märksõnade blokeerimise funktsioon"
+  },
+  "enterKeywords": {
+    "message": "Sisestage märksõnad (komadega eraldatud)...",
+    "description": "Märksõnade sisendi kohatäide"
+  },
+  "partialMatch": {
+    "message": "Osaline vaste",
+    "description": "Osalise vaste valik"
+  },
+  "exactMatch": {
+    "message": "Täpne vaste",
+    "description": "Täpse vaste valik"
+  },
+  "addFilter": {
+    "message": "Lisa filter",
+    "description": "Lisa filtri nupp"
+  }
+}

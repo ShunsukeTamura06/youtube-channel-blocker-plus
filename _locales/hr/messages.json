@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Bloker Kanala Plus",
+    "description": "Naziv proširenja"
+  },
+  "appDescription": {
+    "message": "Napredno blokiranje YouTube kanala s višejezičnom podrškom i sinkroniziranim pohranama",
+    "description": "Opis proširenja"
+  },
+  "quickBlock": {
+    "message": "Brzo Blokiranje",
+    "description": "Naslov sekcije brzog blokiranja"
+  },
+  "enterChannelName": {
+    "message": "Unesite naziv kanala...",
+    "description": "Zamjenski tekst za unos kanala"
+  },
+  "block": {
+    "message": "Blokiraj",
+    "description": "Tekst tipke za blokiranje"
+  },
+  "blockedChannels": {
+    "message": "Blokirani Kanali",
+    "description": "Naslov sekcije blokiranih kanala"
+  },
+  "settings": {
+    "message": "Postavke",
+    "description": "Naslov sekcije postavki"
+  },
+  "showBlockButtons": {
+    "message": "Prikaži tipke za blokiranje",
+    "description": "Postavka za prikaz/sakrivanje tipki za blokiranje"
+  },
+  "buttonColor": {
+    "message": "Boja tipke:",
+    "description": "Oznaka postavke boje tipke"
+  },
+  "enableSync": {
+    "message": "Omogući sinkronizaciju između uređaja",
+    "description": "Oznaka postavke sinkronizacije"
+  },
+  "import": {
+    "message": "Uvozi",
+    "description": "Tekst tipke za uvoz"
+  },
+  "export": {
+    "message": "Izvozi",
+    "description": "Tekst tipke za izvoz"
+  },
+  "clearAll": {
+    "message": "Očisti Sve",
+    "description": "Tekst tipke za brisanje svega"
+  },
+  "blockedCount": {
+    "message": "Blokirano:",
+    "description": "Oznaka brojača blokiranih"
+  },
+  "remove": {
+    "message": "Ukloni",
+    "description": "Tekst tipke za uklanjanje"
+  },
+  "noBlockedChannels": {
+    "message": "Još nema blokiranih kanala",
+    "description": "Poruka praznog stanja"
+  },
+  "channelBlocked": {
+    "message": "Blokirano: $1",
+    "description": "Obavijest o blokiranju kanala"
+  },
+  "channelUnblocked": {
+    "message": "Odblokirano: $1",
+    "description": "Obavijest o odblokiranju kanala"
+  },
+  "blockChannel": {
+    "message": "Blokiraj $1",
+    "description": "Tooltip tipke za blokiranje kanala"
+  },
+  "blocked": {
+    "message": "BLOKIRANO",
+    "description": "Tekst prekrivanja blokirano"
+  },
+  "loading": {
+    "message": "Učitava...",
+    "description": "Tekst učitavanja"
+  },
+  "error": {
+    "message": "Dogodila se greška",
+    "description": "Općenita poruka o grešci"
+  },
+  "dataExported": {
+    "message": "Podaci uspješno izvezeni",
+    "description": "Poruka uspjeha izvoza"
+  },
+  "dataImported": {
+    "message": "Podaci uspješno uvezeni",
+    "description": "Poruka uspjeha uvoza"
+  },
+  "importError": {
+    "message": "Neuspješan uvoz podataka",
+    "description": "Poruka greške uvoza"
+  },
+  "confirmClearAll": {
+    "message": "Jeste li sigurni da želite obrisati sve blokirane kanale?",
+    "description": "Poruka potvrde za brisanje svih podataka"
+  },
+  "allDataCleared": {
+    "message": "Svi podaci obrisani",
+    "description": "Poruka uspjeha brisanja svega"
+  },
+  "smartFilters": {
+    "message": "Pametni Filtri",
+    "description": "Naslov sekcije pametnih filtara"
+  },
+  "blockKeywords": {
+    "message": "Blokiraj ključne riječi",
+    "description": "Funkcija blokiranja ključnih riječi"
+  },
+  "enterKeywords": {
+    "message": "Unesite ključne riječi (odvojene zarezima)...",
+    "description": "Zamjenski tekst unosa ključnih riječi"
+  },
+  "partialMatch": {
+    "message": "Djelomično poklapanje",
+    "description": "Opcija djelomičnog poklapanja"
+  },
+  "exactMatch": {
+    "message": "Točno poklapanje",
+    "description": "Opcija točnog poklapanja"
+  },
+  "addFilter": {
+    "message": "Dodaj filter",
+    "description": "Tipka za dodavanje filtra"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Kanalų Blokuotojas Plus",
+    "description": "Plėtinio pavadinimas"
+  },
+  "appDescription": {
+    "message": "Pažangus YouTube kanalų blokavimas su daugiakalbiu palaikymu ir sinchronizuotu saugojimu",
+    "description": "Plėtinio aprašymas"
+  },
+  "quickBlock": {
+    "message": "Greitas Blokavimas",
+    "description": "Greito blokavimo sekcijos pavadinimas"
+  },
+  "enterChannelName": {
+    "message": "Įveskite kanalo pavadinimą...",
+    "description": "Kanalo įvesties vietos žymeklis"
+  },
+  "block": {
+    "message": "Blokuoti",
+    "description": "Blokavimo mygtuko tekstas"
+  },
+  "blockedChannels": {
+    "message": "Užblokuoti Kanalai",
+    "description": "Užblokuotų kanalų sekcijos pavadinimas"
+  },
+  "settings": {
+    "message": "Nustatymai",
+    "description": "Nustatymų sekcijos pavadinimas"
+  },
+  "showBlockButtons": {
+    "message": "Rodyti blokavimo mygtukus",
+    "description": "Nustatymas rodyti/slėpti blokavimo mygtukus"
+  },
+  "buttonColor": {
+    "message": "Mygtuko spalva:",
+    "description": "Mygtuko spalvos nustatymo etiketė"
+  },
+  "enableSync": {
+    "message": "Įjungti sinchronizavimą tarp įrenginių",
+    "description": "Sinchronizavimo nustatymo etiketė"
+  },
+  "import": {
+    "message": "Importuoti",
+    "description": "Importavimo mygtuko tekstas"
+  },
+  "export": {
+    "message": "Eksportuoti",
+    "description": "Eksportavimo mygtuko tekstas"
+  },
+  "clearAll": {
+    "message": "Išvalyti Viską",
+    "description": "Išvalyti viską mygtuko tekstas"
+  },
+  "blockedCount": {
+    "message": "Užblokuota:",
+    "description": "Užblokuotų skaitiklio etiketė"
+  },
+  "remove": {
+    "message": "Pašalinti",
+    "description": "Pašalinimo mygtuko tekstas"
+  },
+  "noBlockedChannels": {
+    "message": "Kol kas nėra užblokuotų kanalų",
+    "description": "Tuščios būsenos pranešimas"
+  },
+  "channelBlocked": {
+    "message": "Užblokuotas: $1",
+    "description": "Kanalo blokavimo pranešimas"
+  },
+  "channelUnblocked": {
+    "message": "Atblokuotas: $1",
+    "description": "Kanalo atblokavimo pranešimas"
+  },
+  "blockChannel": {
+    "message": "Blokuoti $1",
+    "description": "Blokuoti kanalą mygtuko patarimas"
+  },
+  "blocked": {
+    "message": "UŽBLOKUOTAS",
+    "description": "Blokavimo perdengimo tekstas"
+  },
+  "loading": {
+    "message": "Kraunama...",
+    "description": "Krovimo tekstas"
+  },
+  "error": {
+    "message": "Įvyko klaida",
+    "description": "Bendras klaidos pranešimas"
+  },
+  "dataExported": {
+    "message": "Duomenys sėkmingai eksportuoti",
+    "description": "Eksportavimo sėkmės pranešimas"
+  },
+  "dataImported": {
+    "message": "Duomenys sėkmingai importuoti",
+    "description": "Importavimo sėkmės pranešimas"
+  },
+  "importError": {
+    "message": "Nepavyko importuoti duomenų",
+    "description": "Importavimo klaidos pranešimas"
+  },
+  "confirmClearAll": {
+    "message": "Ar tikrai norite išvalyti visus užblokuotus kanalus?",
+    "description": "Patvirtinimo pranešimas visų duomenų išvalymui"
+  },
+  "allDataCleared": {
+    "message": "Visi duomenys išvalyti",
+    "description": "Išvalyti viską sėkmės pranešimas"
+  },
+  "smartFilters": {
+    "message": "Išmanūs Filtrai",
+    "description": "Išmanių filtrų sekcijos pavadinimas"
+  },
+  "blockKeywords": {
+    "message": "Blokuoti raktinius žodžius",
+    "description": "Raktinių žodžių blokavimo funkcija"
+  },
+  "enterKeywords": {
+    "message": "Įveskite raktinius žodžius (atskirti kableliais)...",
+    "description": "Raktinių žodžių įvesties vietos žymeklis"
+  },
+  "partialMatch": {
+    "message": "Dalinis atitikimas",
+    "description": "Dalinio atitikimo parinktis"
+  },
+  "exactMatch": {
+    "message": "Tikslus atitikimas",
+    "description": "Tikslaus atitikimo parinktis"
+  },
+  "addFilter": {
+    "message": "Pridėti filtrą",
+    "description": "Pridėti filtrą mygtukas"
+  }
+}
