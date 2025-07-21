@@ -1,0 +1,82 @@
+{
+  "appName": {
+    "message": "YouTube Kanaal Blocker Plus",
+    "description": "Extensie naam"
+  },
+  "appDescription": {
+    "message": "Geavanceerde YouTube kanaal blokkering met meertalige ondersteuning en gesynchroniseerde opslag",
+    "description": "Extensie beschrijving"
+  },
+  "quickBlock": {
+    "message": "Snel Blokkeren",
+    "description": "Snel blokkeren sectie titel"
+  },
+  "enterChannelName": {
+    "message": "Voer kanaalnaam in...",
+    "description": "Placeholder voor kanaal invoer"
+  },
+  "block": {
+    "message": "Blokkeren",
+    "description": "Blokkeer knop tekst"
+  },
+  "blockedChannels": {
+    "message": "Geblokkeerde Kanalen",
+    "description": "Geblokkeerde kanalen sectie titel"
+  },
+  "settings": {
+    "message": "Instellingen",
+    "description": "Instellingen sectie titel"
+  },
+  "showBlockButtons": {
+    "message": "Blokkeer knoppen tonen",
+    "description": "Instelling voor tonen/verbergen blokkeer knoppen"
+  },
+  "buttonColor": {
+    "message": "Knop kleur:",
+    "description": "Knop kleur instelling label"
+  },
+  "enableSync": {
+    "message": "Synchronisatie tussen apparaten inschakelen",
+    "description": "Synchronisatie instelling label"
+  },
+  "import": {
+    "message": "Importeren",
+    "description": "Importeer knop tekst"
+  },
+  "export": {
+    "message": "Exporteren",
+    "description": "Exporteer knop tekst"
+  },
+  "clearAll": {
+    "message": "Alles Wissen",
+    "description": "Alles wissen knop tekst"
+  },
+  "blockedCount": {
+    "message": "Geblokkeerd:",
+    "description": "Geblokkeerde teller label"
+  },
+  "remove": {
+    "message": "Verwijderen",
+    "description": "Verwijder knop tekst"
+  },
+  "noBlockedChannels": {
+    "message": "Nog geen geblokkeerde kanalen",
+    "description": "Lege status bericht"
+  },
+  "channelBlocked": {
+    "message": "Geblokkeerd: $1",
+    "description": "Kanaal geblokkeerd melding"
+  },
+  "channelUnblocked": {
+    "message": "Gedeblokkeerd: $1",
+    "description": "Kanaal gedeblokkeerd melding"
+  },
+  "blockChannel": {
+    "message": "$1 blokkeren",
+    "description": "Blokkeer kanaal knop tooltip"
+  },
+  "blocked": {
+    "message": "GEBLOKKEERD",
+    "description": "Geblokkeerd overlay tekst"
+  }
+}

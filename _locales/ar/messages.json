@@ -1,0 +1,82 @@
+{
+  "appName": {
+    "message": "حاجب قنوات يوتيوب بلس",
+    "description": "اسم الإضافة"
+  },
+  "appDescription": {
+    "message": "حجب متقدم لقنوات يوتيوب مع دعم متعدد اللغات وتخزين متزامن",
+    "description": "وصف الإضافة"
+  },
+  "quickBlock": {
+    "message": "حجب سريع",
+    "description": "عنوان قسم الحجب السريع"
+  },
+  "enterChannelName": {
+    "message": "أدخل اسم القناة...",
+    "description": "عنصر نائب لإدخال القناة"
+  },
+  "block": {
+    "message": "حجب",
+    "description": "نص زر الحجب"
+  },
+  "blockedChannels": {
+    "message": "القنوات المحجوبة",
+    "description": "عنوان قسم القنوات المحجوبة"
+  },
+  "settings": {
+    "message": "الإعدادات",
+    "description": "عنوان قسم الإعدادات"
+  },
+  "showBlockButtons": {
+    "message": "إظهار أزرار الحجب",
+    "description": "إعداد لإظهار/إخفاء أزرار الحجب"
+  },
+  "buttonColor": {
+    "message": "لون الزر:",
+    "description": "تسمية إعداد لون الزر"
+  },
+  "enableSync": {
+    "message": "تمكين المزامنة عبر الأجهزة",
+    "description": "تسمية إعداد المزامنة"
+  },
+  "import": {
+    "message": "استيراد",
+    "description": "نص زر الاستيراد"
+  },
+  "export": {
+    "message": "تصدير",
+    "description": "نص زر التصدير"
+  },
+  "clearAll": {
+    "message": "مسح الكل",
+    "description": "نص زر مسح الكل"
+  },
+  "blockedCount": {
+    "message": "محجوب:",
+    "description": "تسمية عداد المحجوبة"
+  },
+  "remove": {
+    "message": "إزالة",
+    "description": "نص زر الإزالة"
+  },
+  "noBlockedChannels": {
+    "message": "لا توجد قنوات محجوبة بعد",
+    "description": "رسالة الحالة الفارغة"
+  },
+  "channelBlocked": {
+    "message": "محجوب: $1",
+    "description": "إشعار حجب القناة"
+  },
+  "channelUnblocked": {
+    "message": "غير محجوب: $1",
+    "description": "إشعار إلغاء حجب القناة"
+  },
+  "blockChannel": {
+    "message": "حجب $1",
+    "description": "تلميح زر حجب القناة"
+  },
+  "blocked": {
+    "message": "محجوب",
+    "description": "نص تراكب الحجب"
+  }
+}

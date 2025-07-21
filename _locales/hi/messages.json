@@ -1,0 +1,82 @@
+{
+  "appName": {
+    "message": "YouTube चैनल ब्लॉकर प्लस",
+    "description": "एक्सटेंशन नाम"
+  },
+  "appDescription": {
+    "message": "बहुभाषी समर्थन और सिंक स्टोरेज के साथ उन्नत YouTube चैनल ब्लॉकिंग",
+    "description": "एक्सटेंशन विवरण"
+  },
+  "quickBlock": {
+    "message": "त्वरित ब्लॉक",
+    "description": "त्वरित ब्लॉक सेक्शन शीर्षक"
+  },
+  "enterChannelName": {
+    "message": "चैनल नाम दर्ज करें...",
+    "description": "चैनल इनपुट के लिए प्लेसहोल्डर"
+  },
+  "block": {
+    "message": "ब्लॉक करें",
+    "description": "ब्लॉक बटन टेक्स्ट"
+  },
+  "blockedChannels": {
+    "message": "ब्लॉक किए गए चैनल",
+    "description": "ब्लॉक किए गए चैनल सेक्शन शीर्षक"
+  },
+  "settings": {
+    "message": "सेटिंग्स",
+    "description": "सेटिंग्स सेक्शन शीर्षक"
+  },
+  "showBlockButtons": {
+    "message": "ब्लॉक बटन दिखाएं",
+    "description": "ब्लॉक बटन दिखाने/छुपाने की सेटिंग"
+  },
+  "buttonColor": {
+    "message": "बटन रंग:",
+    "description": "बटन रंग सेटिंग लेबल"
+  },
+  "enableSync": {
+    "message": "डिवाइसों में सिंक सक्षम करें",
+    "description": "सिंक सेटिंग लेबल"
+  },
+  "import": {
+    "message": "आयात करें",
+    "description": "आयात बटन टेक्स्ट"
+  },
+  "export": {
+    "message": "निर्यात करें",
+    "description": "निर्यात बटन टेक्स्ट"
+  },
+  "clearAll": {
+    "message": "सब साफ़ करें",
+    "description": "सब साफ़ करें बटन टेक्स्ट"
+  },
+  "blockedCount": {
+    "message": "ब्लॉक किए गए:",
+    "description": "ब्लॉक काउंटर लेबल"
+  },
+  "remove": {
+    "message": "हटाएं",
+    "description": "हटाएं बटन टेक्स्ट"
+  },
+  "noBlockedChannels": {
+    "message": "अभी तक कोई चैनल ब्लॉक नहीं किया गया",
+    "description": "खाली स्थिति संदेश"
+  },
+  "channelBlocked": {
+    "message": "ब्लॉक किया गया: $1",
+    "description": "चैनल ब्लॉक अधिसूचना"
+  },
+  "channelUnblocked": {
+    "message": "अनब्लॉक किया गया: $1",
+    "description": "चैनल अनब्लॉक अधिसूचना"
+  },
+  "blockChannel": {
+    "message": "$1 को ब्लॉक करें",
+    "description": "चैनल ब्लॉक बटन टूलटिप"
+  },
+  "blocked": {
+    "message": "ब्लॉक किया गया",
+    "description": "ब्लॉक ओवरले टेक्स्ट"
+  }
+}

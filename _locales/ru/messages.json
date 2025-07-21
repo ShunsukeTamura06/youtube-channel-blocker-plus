@@ -1,0 +1,82 @@
+{
+  "appName": {
+    "message": "Блокировщик Каналов YouTube Plus",
+    "description": "Название расширения"
+  },
+  "appDescription": {
+    "message": "Продвинутая блокировка каналов YouTube с многоязычной поддержкой и синхронизированным хранилищем",
+    "description": "Описание расширения"
+  },
+  "quickBlock": {
+    "message": "Быстрая Блокировка",
+    "description": "Заголовок раздела быстрой блокировки"
+  },
+  "enterChannelName": {
+    "message": "Введите название канала...",
+    "description": "Заполнитель для ввода канала"
+  },
+  "block": {
+    "message": "Заблокировать",
+    "description": "Текст кнопки блокировки"
+  },
+  "blockedChannels": {
+    "message": "Заблокированные Каналы",
+    "description": "Заголовок раздела заблокированных каналов"
+  },
+  "settings": {
+    "message": "Настройки",
+    "description": "Заголовок раздела настроек"
+  },
+  "showBlockButtons": {
+    "message": "Показывать кнопки блокировки",
+    "description": "Настройка для показа/скрытия кнопок блокировки"
+  },
+  "buttonColor": {
+    "message": "Цвет кнопки:",
+    "description": "Метка настройки цвета кнопки"
+  },
+  "enableSync": {
+    "message": "Включить синхронизацию между устройствами",
+    "description": "Метка настройки синхронизации"
+  },
+  "import": {
+    "message": "Импорт",
+    "description": "Текст кнопки импорта"
+  },
+  "export": {
+    "message": "Экспорт",
+    "description": "Текст кнопки экспорта"
+  },
+  "clearAll": {
+    "message": "Очистить Всё",
+    "description": "Текст кнопки очистки всего"
+  },
+  "blockedCount": {
+    "message": "Заблокировано:",
+    "description": "Метка счётчика заблокированных"
+  },
+  "remove": {
+    "message": "Удалить",
+    "description": "Текст кнопки удаления"
+  },
+  "noBlockedChannels": {
+    "message": "Пока нет заблокированных каналов",
+    "description": "Сообщение пустого состояния"
+  },
+  "channelBlocked": {
+    "message": "Заблокирован: $1",
+    "description": "Уведомление о блокировке канала"
+  },
+  "channelUnblocked": {
+    "message": "Разблокирован: $1",
+    "description": "Уведомление о разблокировке канала"
+  },
+  "blockChannel": {
+    "message": "Заблокировать $1",
+    "description": "Подсказка кнопки блокировки канала"
+  },
+  "blocked": {
+    "message": "ЗАБЛОКИРОВАНО",
+    "description": "Текст наложения блокировки"
+  }
+}

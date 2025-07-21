@@ -1,0 +1,82 @@
+{
+  "appName": {
+    "message": "Bloccatore Canali YouTube Plus",
+    "description": "Nome dell'estensione"
+  },
+  "appDescription": {
+    "message": "Blocco avanzato di canali YouTube con supporto multilingue e archiviazione sincronizzata",
+    "description": "Descrizione dell'estensione"
+  },
+  "quickBlock": {
+    "message": "Blocco Rapido",
+    "description": "Titolo sezione blocco rapido"
+  },
+  "enterChannelName": {
+    "message": "Inserisci nome del canale...",
+    "description": "Segnaposto per input canale"
+  },
+  "block": {
+    "message": "Blocca",
+    "description": "Testo del pulsante blocca"
+  },
+  "blockedChannels": {
+    "message": "Canali Bloccati",
+    "description": "Titolo sezione canali bloccati"
+  },
+  "settings": {
+    "message": "Impostazioni",
+    "description": "Titolo sezione impostazioni"
+  },
+  "showBlockButtons": {
+    "message": "Mostra pulsanti di blocco",
+    "description": "Impostazione per mostrare/nascondere pulsanti di blocco"
+  },
+  "buttonColor": {
+    "message": "Colore pulsante:",
+    "description": "Etichetta impostazione colore pulsante"
+  },
+  "enableSync": {
+    "message": "Abilita sincronizzazione tra dispositivi",
+    "description": "Etichetta impostazione sincronizzazione"
+  },
+  "import": {
+    "message": "Importa",
+    "description": "Testo del pulsante importa"
+  },
+  "export": {
+    "message": "Esporta",
+    "description": "Testo del pulsante esporta"
+  },
+  "clearAll": {
+    "message": "Cancella Tutto",
+    "description": "Testo del pulsante cancella tutto"
+  },
+  "blockedCount": {
+    "message": "Bloccati:",
+    "description": "Etichetta contatore bloccati"
+  },
+  "remove": {
+    "message": "Rimuovi",
+    "description": "Testo del pulsante rimuovi"
+  },
+  "noBlockedChannels": {
+    "message": "Nessun canale bloccato ancora",
+    "description": "Messaggio stato vuoto"
+  },
+  "channelBlocked": {
+    "message": "Bloccato: $1",
+    "description": "Notifica canale bloccato"
+  },
+  "channelUnblocked": {
+    "message": "Sbloccato: $1",
+    "description": "Notifica canale sbloccato"
+  },
+  "blockChannel": {
+    "message": "Blocca $1",
+    "description": "Tooltip pulsante blocca canale"
+  },
+  "blocked": {
+    "message": "BLOCCATO",
+    "description": "Testo overlay bloccato"
+  }
+}
