@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube 頻道封鎖器 Plus",
+    "description": "擴展名稱"
+  },
+  "appDescription": {
+    "message": "具有多語言支援和同步儲存的進階 YouTube 頻道封鎖功能",
+    "description": "擴展描述"
+  },
+  "quickBlock": {
+    "message": "快速封鎖",
+    "description": "快速封鎖部分標題"
+  },
+  "enterChannelName": {
+    "message": "輸入頻道名稱...",
+    "description": "頻道輸入佔位符"
+  },
+  "block": {
+    "message": "封鎖",
+    "description": "封鎖按鈕文字"
+  },
+  "blockedChannels": {
+    "message": "已封鎖頻道",
+    "description": "已封鎖頻道部分標題"
+  },
+  "settings": {
+    "message": "設定",
+    "description": "設定部分標題"
+  },
+  "showBlockButtons": {
+    "message": "顯示封鎖按鈕",
+    "description": "顯示/隱藏封鎖按鈕設定"
+  },
+  "buttonColor": {
+    "message": "按鈕顏色：",
+    "description": "按鈕顏色設定標籤"
+  },
+  "enableSync": {
+    "message": "跨裝置同步",
+    "description": "同步設定標籤"
+  },
+  "import": {
+    "message": "匯入",
+    "description": "匯入按鈕文字"
+  },
+  "export": {
+    "message": "匯出",
+    "description": "匯出按鈕文字"
+  },
+  "clearAll": {
+    "message": "清除全部",
+    "description": "清除全部按鈕文字"
+  },
+  "blockedCount": {
+    "message": "已封鎖：",
+    "description": "封鎖計數標籤"
+  },
+  "remove": {
+    "message": "移除",
+    "description": "移除按鈕文字"
+  },
+  "noBlockedChannels": {
+    "message": "還沒有封鎖的頻道",
+    "description": "空狀態訊息"
+  },
+  "channelBlocked": {
+    "message": "已封鎖：$1",
+    "description": "頻道封鎖通知"
+  },
+  "channelUnblocked": {
+    "message": "已取消封鎖：$1",
+    "description": "頻道取消封鎖通知"
+  },
+  "blockChannel": {
+    "message": "封鎖 $1",
+    "description": "封鎖頻道按鈕工具提示"
+  },
+  "blocked": {
+    "message": "已封鎖",
+    "description": "封鎖覆蓋文字"
+  },
+  "loading": {
+    "message": "載入中...",
+    "description": "載入文字"
+  },
+  "error": {
+    "message": "發生錯誤",
+    "description": "通用錯誤訊息"
+  },
+  "dataExported": {
+    "message": "資料匯出成功",
+    "description": "匯出成功訊息"
+  },
+  "dataImported": {
+    "message": "資料匯入成功",
+    "description": "匯入成功訊息"
+  },
+  "importError": {
+    "message": "資料匯入失敗",
+    "description": "匯入錯誤訊息"
+  },
+  "confirmClearAll": {
+    "message": "確定要清除所有封鎖的頻道嗎？",
+    "description": "清除所有資料確認訊息"
+  },
+  "allDataCleared": {
+    "message": "所有資料已清除",
+    "description": "清除全部成功訊息"
+  },
+  "smartFilters": {
+    "message": "智慧篩選器",
+    "description": "智慧篩選器部分標題"
+  },
+  "blockKeywords": {
+    "message": "封鎖關鍵詞",
+    "description": "封鎖關鍵詞功能"
+  },
+  "enterKeywords": {
+    "message": "輸入關鍵詞（以逗號分隔）...",
+    "description": "關鍵詞輸入佔位符"
+  },
+  "partialMatch": {
+    "message": "部分匹配",
+    "description": "部分匹配選項"
+  },
+  "exactMatch": {
+    "message": "精確匹配",
+    "description": "精確匹配選項"
+  },
+  "addFilter": {
+    "message": "新增篩選器",
+    "description": "新增篩選器按鈕"
+  }
+}

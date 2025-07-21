@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Penyekat Saluran Plus",
+    "description": "Nama sambungan"
+  },
+  "appDescription": {
+    "message": "Penyekatan saluran YouTube lanjutan dengan sokongan pelbagai bahasa dan storan segerak",
+    "description": "Penerangan sambungan"
+  },
+  "quickBlock": {
+    "message": "Sekat Pantas",
+    "description": "Tajuk bahagian sekat pantas"
+  },
+  "enterChannelName": {
+    "message": "Masukkan nama saluran...",
+    "description": "Pemegang tempat untuk input saluran"
+  },
+  "block": {
+    "message": "Sekat",
+    "description": "Teks butang sekat"
+  },
+  "blockedChannels": {
+    "message": "Saluran Disekat",
+    "description": "Tajuk bahagian saluran disekat"
+  },
+  "settings": {
+    "message": "Tetapan",
+    "description": "Tajuk bahagian tetapan"
+  },
+  "showBlockButtons": {
+    "message": "Tunjuk butang sekat",
+    "description": "Tetapan untuk tunjuk/sorok butang sekat"
+  },
+  "buttonColor": {
+    "message": "Warna butang:",
+    "description": "Label tetapan warna butang"
+  },
+  "enableSync": {
+    "message": "Dayakan segerak antara peranti",
+    "description": "Label tetapan segerak"
+  },
+  "import": {
+    "message": "Import",
+    "description": "Teks butang import"
+  },
+  "export": {
+    "message": "Eksport",
+    "description": "Teks butang eksport"
+  },
+  "clearAll": {
+    "message": "Kosongkan Semua",
+    "description": "Teks butang kosongkan semua"
+  },
+  "blockedCount": {
+    "message": "Disekat:",
+    "description": "Label pembilang disekat"
+  },
+  "remove": {
+    "message": "Buang",
+    "description": "Teks butang buang"
+  },
+  "noBlockedChannels": {
+    "message": "Tiada saluran disekat lagi",
+    "description": "Mesej keadaan kosong"
+  },
+  "channelBlocked": {
+    "message": "Disekat: $1",
+    "description": "Pemberitahuan saluran disekat"
+  },
+  "channelUnblocked": {
+    "message": "Nyahsekat: $1",
+    "description": "Pemberitahuan saluran nyahsekat"
+  },
+  "blockChannel": {
+    "message": "Sekat $1",
+    "description": "Tooltip butang sekat saluran"
+  },
+  "blocked": {
+    "message": "DISEKAT",
+    "description": "Teks lapisan disekat"
+  },
+  "loading": {
+    "message": "Memuatkan...",
+    "description": "Teks memuatkan"
+  },
+  "error": {
+    "message": "Ralat berlaku",
+    "description": "Mesej ralat umum"
+  },
+  "dataExported": {
+    "message": "Data berjaya dieksport",
+    "description": "Mesej berjaya eksport"
+  },
+  "dataImported": {
+    "message": "Data berjaya diimport",
+    "description": "Mesej berjaya import"
+  },
+  "importError": {
+    "message": "Gagal import data",
+    "description": "Mesej ralat import"
+  },
+  "confirmClearAll": {
+    "message": "Adakah anda pasti mahu kosongkan semua saluran disekat?",
+    "description": "Mesej pengesahan untuk kosongkan semua data"
+  },
+  "allDataCleared": {
+    "message": "Semua data dikosongkan",
+    "description": "Mesej berjaya kosongkan semua"
+  },
+  "smartFilters": {
+    "message": "Penapis Pintar",
+    "description": "Tajuk bahagian penapis pintar"
+  },
+  "blockKeywords": {
+    "message": "Sekat kata kunci",
+    "description": "Ciri sekat kata kunci"
+  },
+  "enterKeywords": {
+    "message": "Masukkan kata kunci (dipisah koma)...",
+    "description": "Pemegang tempat input kata kunci"
+  },
+  "partialMatch": {
+    "message": "Padanan separa",
+    "description": "Pilihan padanan separa"
+  },
+  "exactMatch": {
+    "message": "Padanan tepat",
+    "description": "Pilihan padanan tepat"
+  },
+  "addFilter": {
+    "message": "Tambah penapis",
+    "description": "Butang tambah penapis"
+  }
+}

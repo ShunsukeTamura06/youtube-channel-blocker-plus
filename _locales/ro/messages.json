@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube Blocator Canale Plus",
+    "description": "Numele extensiei"
+  },
+  "appDescription": {
+    "message": "Blocare avansată de canale YouTube cu suport multilingv și stocare sincronizată",
+    "description": "Descrierea extensiei"
+  },
+  "quickBlock": {
+    "message": "Blocare Rapidă",
+    "description": "Titlul secțiunii de blocare rapidă"
+  },
+  "enterChannelName": {
+    "message": "Introduceți numele canalului...",
+    "description": "Placeholder pentru introducerea canalului"
+  },
+  "block": {
+    "message": "Blochează",
+    "description": "Textul butonului de blocare"
+  },
+  "blockedChannels": {
+    "message": "Canale Blocate",
+    "description": "Titlul secțiunii cu canale blocate"
+  },
+  "settings": {
+    "message": "Setări",
+    "description": "Titlul secțiunii de setări"
+  },
+  "showBlockButtons": {
+    "message": "Afișează butoanele de blocare",
+    "description": "Setare pentru afișarea/ascunderea butoanelor de blocare"
+  },
+  "buttonColor": {
+    "message": "Culoarea butonului:",
+    "description": "Eticheta setării culorii butonului"
+  },
+  "enableSync": {
+    "message": "Activează sincronizarea între dispozitive",
+    "description": "Eticheta setării de sincronizare"
+  },
+  "import": {
+    "message": "Import",
+    "description": "Textul butonului de import"
+  },
+  "export": {
+    "message": "Export",
+    "description": "Textul butonului de export"
+  },
+  "clearAll": {
+    "message": "Șterge Tot",
+    "description": "Textul butonului de ștergere a tuturor"
+  },
+  "blockedCount": {
+    "message": "Blocate:",
+    "description": "Eticheta contorului de blocate"
+  },
+  "remove": {
+    "message": "Elimină",
+    "description": "Textul butonului de eliminare"
+  },
+  "noBlockedChannels": {
+    "message": "Încă nu există canale blocate",
+    "description": "Mesajul stării goale"
+  },
+  "channelBlocked": {
+    "message": "Blocat: $1",
+    "description": "Notificarea de canal blocat"
+  },
+  "channelUnblocked": {
+    "message": "Deblocat: $1",
+    "description": "Notificarea de canal deblocat"
+  },
+  "blockChannel": {
+    "message": "Blochează $1",
+    "description": "Sfatul butonului de blocare canal"
+  },
+  "blocked": {
+    "message": "BLOCAT",
+    "description": "Textul suprapunerii de blocat"
+  },
+  "loading": {
+    "message": "Se încarcă...",
+    "description": "Textul de încărcare"
+  },
+  "error": {
+    "message": "A apărut o eroare",
+    "description": "Mesajul generic de eroare"
+  },
+  "dataExported": {
+    "message": "Datele au fost exportate cu succes",
+    "description": "Mesajul de succes al exportului"
+  },
+  "dataImported": {
+    "message": "Datele au fost importate cu succes",
+    "description": "Mesajul de succes al importului"
+  },
+  "importError": {
+    "message": "Importul datelor a eșuat",
+    "description": "Mesajul de eroare al importului"
+  },
+  "confirmClearAll": {
+    "message": "Sunteți sigur că doriți să ștergeți toate canalele blocate?",
+    "description": "Mesajul de confirmare pentru ștergerea tuturor datelor"
+  },
+  "allDataCleared": {
+    "message": "Toate datele au fost șterse",
+    "description": "Mesajul de succes pentru ștergerea tuturor"
+  },
+  "smartFilters": {
+    "message": "Filtre Inteligente",
+    "description": "Titlul secțiunii de filtre inteligente"
+  },
+  "blockKeywords": {
+    "message": "Blochează cuvinte cheie",
+    "description": "Funcția de blocare a cuvintelor cheie"
+  },
+  "enterKeywords": {
+    "message": "Introduceți cuvinte cheie (separate prin virgulă)...",
+    "description": "Placeholder pentru introducerea cuvintelor cheie"
+  },
+  "partialMatch": {
+    "message": "Potrivire parțială",
+    "description": "Opțiunea de potrivire parțială"
+  },
+  "exactMatch": {
+    "message": "Potrivire exactă",
+    "description": "Opțiunea de potrivire exactă"
+  },
+  "addFilter": {
+    "message": "Adaugă filtru",
+    "description": "Butonul de adăugare filtru"
+  }
+}

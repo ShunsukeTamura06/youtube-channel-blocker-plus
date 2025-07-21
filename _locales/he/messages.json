@@ -1,0 +1,134 @@
+{
+  "appName": {
+    "message": "YouTube חוסם ערוצים Plus",
+    "description": "שם הרחבה"
+  },
+  "appDescription": {
+    "message": "חסימת ערוצי YouTube מתקדמת עם תמיכה רב-לשונית ואחסון מסונכרן",
+    "description": "תיאור הרחבה"
+  },
+  "quickBlock": {
+    "message": "חסימה מהירה",
+    "description": "כותרת קטע חסימה מהירה"
+  },
+  "enterChannelName": {
+    "message": "הכנס שם ערוץ...",
+    "description": "מקום מחזיק עבור קלט ערוץ"
+  },
+  "block": {
+    "message": "חסום",
+    "description": "טקסט כפתור חסימה"
+  },
+  "blockedChannels": {
+    "message": "ערוצים חסומים",
+    "description": "כותרת קטע ערוצים חסומים"
+  },
+  "settings": {
+    "message": "הגדרות",
+    "description": "כותרת קטע הגדרות"
+  },
+  "showBlockButtons": {
+    "message": "הצג כפתורי חסימה",
+    "description": "הגדרה להצגה/הסתרה של כפתורי חסימה"
+  },
+  "buttonColor": {
+    "message": "צבע כפתור:",
+    "description": "תווית הגדרת צבע כפתור"
+  },
+  "enableSync": {
+    "message": "אפשר סינכרון בין מכשירים",
+    "description": "תווית הגדרת סינכרון"
+  },
+  "import": {
+    "message": "ייבוא",
+    "description": "טקסט כפתור ייבוא"
+  },
+  "export": {
+    "message": "ייצוא",
+    "description": "טקסט כפתור ייצוא"
+  },
+  "clearAll": {
+    "message": "נקה הכל",
+    "description": "טקסט כפתור נקה הכל"
+  },
+  "blockedCount": {
+    "message": "חסומים:",
+    "description": "תווית מונה חסומים"
+  },
+  "remove": {
+    "message": "הסר",
+    "description": "טקסט כפתור הסרה"
+  },
+  "noBlockedChannels": {
+    "message": "עדיין אין ערוצים חסומים",
+    "description": "הודעת מצב ריק"
+  },
+  "channelBlocked": {
+    "message": "נחסם: $1",
+    "description": "התראת ערוץ נחסם"
+  },
+  "channelUnblocked": {
+    "message": "בוטלה חסימה: $1",
+    "description": "התראת ביטול חסימת ערוץ"
+  },
+  "blockChannel": {
+    "message": "חסום $1",
+    "description": "עצה של כפתור חסימת ערוץ"
+  },
+  "blocked": {
+    "message": "חסום",
+    "description": "טקסט שכבת חסום"
+  },
+  "loading": {
+    "message": "טוען...",
+    "description": "טקסט טעינה"
+  },
+  "error": {
+    "message": "אירעה שגיאה",
+    "description": "הודעת שגיאה כללית"
+  },
+  "dataExported": {
+    "message": "נתונים יוצאו בהצלחה",
+    "description": "הודעת הצלחת ייצוא"
+  },
+  "dataImported": {
+    "message": "נתונים יובאו בהצלחה",
+    "description": "הודעת הצלחת ייבוא"
+  },
+  "importError": {
+    "message": "נכשל בייבוא נתונים",
+    "description": "הודעת שגיאת ייבוא"
+  },
+  "confirmClearAll": {
+    "message": "האם אתה בטוח שברצונך לנקות את כל הערוצים החסומים?",
+    "description": "הודעת אישור לניקוי כל הנתונים"
+  },
+  "allDataCleared": {
+    "message": "כל הנתונים נוקו",
+    "description": "הודעת הצלחת ניקוי הכל"
+  },
+  "smartFilters": {
+    "message": "מסננים חכמים",
+    "description": "כותרת קטע מסננים חכמים"
+  },
+  "blockKeywords": {
+    "message": "חסום מילות מפתח",
+    "description": "תכונת חסימת מילות מפתח"
+  },
+  "enterKeywords": {
+    "message": "הכנס מילות מפתח (מופרדות בפסיקים)...",
+    "description": "מקום מחזיק קלט מילות מפתח"
+  },
+  "partialMatch": {
+    "message": "התאמה חלקית",
+    "description": "אפשרות התאמה חלקית"
+  },
+  "exactMatch": {
+    "message": "התאמה מדויקת",
+    "description": "אפשרות התאמה מדויקת"
+  },
+  "addFilter": {
+    "message": "הוסף מסנן",
+    "description": "כפתור הוספת מסנן"
+  }
+}
